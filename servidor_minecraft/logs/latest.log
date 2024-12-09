@@ -390,3 +390,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 06:45:08.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> va despues de la netherita
 [09Dec2024 06:45:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> pq?
 [09Dec2024 06:45:13.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> a
+[09Dec2024 06:54:44.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 06:55:05.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]

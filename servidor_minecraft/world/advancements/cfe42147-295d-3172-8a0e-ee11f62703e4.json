@@ -4474,6 +4474,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_sword": {
+    "criteria": {
+      "gobber2_sword": "2024-12-09 06:45:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
       "has_item": "2024-12-09 06:32:29 +0000"
