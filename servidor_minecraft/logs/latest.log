@@ -2093,3 +2093,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 23:35:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Michak1 left the game
 [09Dec2024 23:35:43.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4248ms or 84 ticks behind
 [09Dec2024 23:39:14.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [Not Today, Thank You]
+[09Dec2024 23:39:52.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[09Dec2024 23:41:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[09Dec2024 23:41:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> oe jenry
+[09Dec2024 23:41:58.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> ya avanzo el evil?
+[09Dec2024 23:42:04.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> si
+[09Dec2024 23:42:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> le sirven los blook
+[09Dec2024 23:42:18.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> que son esos?
+[09Dec2024 23:42:48.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> los q se usan para quitar los encantamientos
+[09Dec2024 23:42:55.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> sisas si me sirven
+[09Dec2024 23:43:13.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> lo estas haciendo con el libro rojo, si?
+[09Dec2024 23:43:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> sisas
+[09Dec2024 23:44:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> osea si me quita los encantamientos normal
+[09Dec2024 23:44:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> pero me sigue dando el blook
+[09Dec2024 23:44:30.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> no lo entiendo jajaja
+[09Dec2024 23:44:36.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> no se que es blook
+[09Dec2024 23:44:42.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
+[09Dec2024 23:44:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> a mi me sirve normal lo de quitar encanctamientos
+[09Dec2024 23:45:50.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> tambien
+[09Dec2024 23:45:57.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[09Dec2024 23:45:57.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> pero no me da los libros encantados
+[09Dec2024 23:46:03.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> bueno ni idea
+[09Dec2024 23:46:18.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> construyan el portal y lo abro cuando esté
+[09Dec2024 23:46:25.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> haganlo bonito que es paera todos
+[09Dec2024 23:46:28.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> ya esta el portal jaja
+[09Dec2024 23:46:30.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> a
+[09Dec2024 23:46:37.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> entonces despues hacemos eso jaja
+[09Dec2024 23:46:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> donde?
+[09Dec2024 23:46:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> si me dice que en la casa de cada uno lo abro en enero
+[09Dec2024 23:47:07.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> para saber que estando tan cerca tener uno cada uno será un mierdero
+[09Dec2024 23:49:30.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> despues hacemos uno en el centro de donde vivimos todos
+[09Dec2024 23:49:36.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> pero ahorita mas noche
+[09Dec2024 23:49:47.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 lost connection: Disconnected
+[09Dec2024 23:49:47.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 left the game
