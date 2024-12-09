@@ -2027,6 +2027,7 @@
       "minecraft:stray": "2024-12-08 04:28:37 +0000",
       "minecraft:silverfish": "2024-12-08 05:15:18 +0000",
       "minecraft:zombie": "2024-12-08 00:55:56 +0000",
+      "minecraft:drowned": "2024-12-09 19:22:50 +0000",
       "minecraft:zombie_villager": "2024-12-08 03:12:02 +0000"
     },
     "done": false
@@ -5215,6 +5216,30 @@
   "skilltree:recipes/misc/copper_ring": {
     "criteria": {
       "has_nuggets_copper": "2024-12-09 07:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-09 19:20:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-09 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-09 19:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-09 19:20:56 +0000"
     },
     "done": true
   },
