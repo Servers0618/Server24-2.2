@@ -2095,6 +2095,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-09 21:56:04 +0000",
       "sweet_berries": "2024-12-08 01:03:03 +0000",
       "cooked_beef": "2024-12-08 05:46:00 +0000",
       "apple": "2024-12-08 05:12:59 +0000",
@@ -5733,6 +5734,18 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2024-12-09 21:30:51 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_great": "2024-12-09 22:03:47 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_greatsword": "2024-12-09 22:03:47 +0000"
     },
     "done": true
   },
