@@ -4810,6 +4810,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_nuggets_copper": "2024-12-09 07:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2024-12-09 06:47:18 +0000"
@@ -4843,6 +4849,12 @@
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2024-12-09 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2024-12-09 07:24:12 +0000"
     },
     "done": true
   },
@@ -4960,6 +4972,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 07:24:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-09 07:26:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-12-09 06:17:29 +0000"
@@ -4993,6 +5017,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-09 06:58:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-09 07:26:12 +0000"
     },
     "done": true
   },
@@ -5098,6 +5128,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_ring": {
+    "criteria": {
+      "has_nuggets_copper": "2024-12-09 07:26:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
     "criteria": {
       "has_item": "2024-12-09 06:03:40 +0000"
@@ -5122,6 +5158,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 07:24:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2024-12-09 06:12:49 +0000"
@@ -5134,6 +5176,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 07:24:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-09 06:47:18 +0000"
@@ -5143,6 +5191,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 07:24:12 +0000"
     },
     "done": true
   },
