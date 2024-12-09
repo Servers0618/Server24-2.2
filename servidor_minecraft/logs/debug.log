@@ -5982,3 +5982,821 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 06:14:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
 [09Dec2024 06:15:00.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
 [09Dec2024 06:15:28.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[09Dec2024 06:15:49.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6187ms or 123 ticks behind
+[09Dec2024 06:16:10.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6372ms or 127 ticks behind
+[09Dec2024 06:16:29.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[09Dec2024 06:16:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Michak1 has made the advancement [Dragonslayer]
+[09Dec2024 06:16:46.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[09Dec2024 06:17:05.789] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xj9uyawszvyp]: started parsing
+[09Dec2024 06:17:05.789] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xj9uyawszvyp]: Consuming argument `air`
+[09Dec2024 06:17:05.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xj9uyawszvyp]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:17:05.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mp4veioz3pew]: started parsing
+[09Dec2024 06:17:05.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mp4veioz3pew]: Consuming argument `air`
+[09Dec2024 06:17:05.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mp4veioz3pew]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:17:06.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 06:17:17.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1le3eu8gbaake]: started parsing
+[09Dec2024 06:17:17.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1le3eu8gbaake]: Consuming argument `air`
+[09Dec2024 06:17:17.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1le3eu8gbaake]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:17:17.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01o8m2oir9uln]: started parsing
+[09Dec2024 06:17:17.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01o8m2oir9uln]: Consuming argument `air`
+[09Dec2024 06:17:17.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01o8m2oir9uln]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:17:17.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 06:17:52.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 06:17:52.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 06:18:29.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 06:18:37.206] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v3vpb0iap7hs]: started parsing
+[09Dec2024 06:18:37.206] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v3vpb0iap7hs]: Consuming argument `air`
+[09Dec2024 06:18:37.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v3vpb0iap7hs]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:37.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u6ks06yea33u]: started parsing
+[09Dec2024 06:18:37.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u6ks06yea33u]: Consuming argument `air`
+[09Dec2024 06:18:37.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u6ks06yea33u]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:38.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02q7ul3chw99v]: started parsing
+[09Dec2024 06:18:38.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02q7ul3chw99v]: Consuming argument `deepslate`
+[09Dec2024 06:18:38.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02q7ul3chw99v]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:38.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t4uisjh82w3v]: started parsing
+[09Dec2024 06:18:38.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t4uisjh82w3v]: Consuming argument `deepslate`
+[09Dec2024 06:18:38.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t4uisjh82w3v]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:38.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tgppi3p62e8w]: started parsing
+[09Dec2024 06:18:38.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tgppi3p62e8w]: Consuming argument `deepslate`
+[09Dec2024 06:18:38.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tgppi3p62e8w]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:45.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t14wfa6sg7dh]: started parsing
+[09Dec2024 06:18:45.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t14wfa6sg7dh]: Consuming argument `deepslate`
+[09Dec2024 06:18:45.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t14wfa6sg7dh]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:45.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3nju2yh27re]: started parsing
+[09Dec2024 06:18:45.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3nju2yh27re]: Consuming argument `deepslate`
+[09Dec2024 06:18:45.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3nju2yh27re]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:46.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bmkggi0q9gur]: started parsing
+[09Dec2024 06:18:46.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bmkggi0q9gur]: Consuming argument `deepslate`
+[09Dec2024 06:18:46.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bmkggi0q9gur]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:53.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hnr9trkauwcx]: started parsing
+[09Dec2024 06:18:53.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hnr9trkauwcx]: Consuming argument `deepslate`
+[09Dec2024 06:18:53.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hnr9trkauwcx]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:53.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7fg9h4aftaq]: started parsing
+[09Dec2024 06:18:53.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7fg9h4aftaq]: Consuming argument `deepslate`
+[09Dec2024 06:18:53.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7fg9h4aftaq]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:18:54.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046nyp4s0dl93]: started parsing
+[09Dec2024 06:18:54.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046nyp4s0dl93]: Consuming argument `deepslate`
+[09Dec2024 06:18:54.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046nyp4s0dl93]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:19:53.009] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bqf10tcyp4p]: started parsing
+[09Dec2024 06:19:53.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bqf10tcyp4p]: Consuming argument `deepslate`
+[09Dec2024 06:19:53.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bqf10tcyp4p]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:19:53.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cnog1uw69k09]: started parsing
+[09Dec2024 06:19:53.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cnog1uw69k09]: Consuming argument `deepslate`
+[09Dec2024 06:19:53.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cnog1uw69k09]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:19:54.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 06:20:44.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
+[09Dec2024 06:21:17.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0382dbafsea5h]: started parsing
+[09Dec2024 06:21:17.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0382dbafsea5h]: Consuming argument `deepslate`
+[09Dec2024 06:21:17.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0382dbafsea5h]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:17.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vwj823rvkvj5]: started parsing
+[09Dec2024 06:21:17.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vwj823rvkvj5]: Consuming argument `deepslate`
+[09Dec2024 06:21:17.925] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vwj823rvkvj5]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:19.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mgyhdz0asfam]: started parsing
+[09Dec2024 06:21:19.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mgyhdz0asfam]: Consuming argument `air`
+[09Dec2024 06:21:19.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mgyhdz0asfam]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:19.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ytqx60kmq520]: started parsing
+[09Dec2024 06:21:19.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ytqx60kmq520]: Consuming argument `air`
+[09Dec2024 06:21:19.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ytqx60kmq520]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:20.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19rf7khmx9ooo]: started parsing
+[09Dec2024 06:21:20.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19rf7khmx9ooo]: Consuming argument `air`
+[09Dec2024 06:21:20.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19rf7khmx9ooo]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:26.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10dlmncf6yflj]: started parsing
+[09Dec2024 06:21:26.488] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10dlmncf6yflj]: Consuming argument `air`
+[09Dec2024 06:21:26.488] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10dlmncf6yflj]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:26.488] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04zo09wswue2o]: started parsing
+[09Dec2024 06:21:26.488] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04zo09wswue2o]: Consuming argument `air`
+[09Dec2024 06:21:26.489] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04zo09wswue2o]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:27.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1md34zkywapuj]: started parsing
+[09Dec2024 06:21:27.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1md34zkywapuj]: Consuming argument `deepslate`
+[09Dec2024 06:21:27.198] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1md34zkywapuj]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:27.198] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17qes1naq1fko]: started parsing
+[09Dec2024 06:21:27.198] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17qes1naq1fko]: Consuming argument `deepslate`
+[09Dec2024 06:21:27.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17qes1naq1fko]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:27.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q1h07tg5fm38]: started parsing
+[09Dec2024 06:21:27.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q1h07tg5fm38]: Consuming argument `deepslate`
+[09Dec2024 06:21:27.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q1h07tg5fm38]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:32.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[09Dec2024 06:21:50.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v8idgaaerh2r]: started parsing
+[09Dec2024 06:21:50.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v8idgaaerh2r]: Consuming argument `deepslate`
+[09Dec2024 06:21:50.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v8idgaaerh2r]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:50.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11f89rlrtgtjs]: started parsing
+[09Dec2024 06:21:50.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11f89rlrtgtjs]: Consuming argument `deepslate`
+[09Dec2024 06:21:50.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11f89rlrtgtjs]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:51.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d4wo4l38zhci]: started parsing
+[09Dec2024 06:21:51.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d4wo4l38zhci]: Consuming argument `air`
+[09Dec2024 06:21:51.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d4wo4l38zhci]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:51.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o796xhsnfcpj]: started parsing
+[09Dec2024 06:21:51.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o796xhsnfcpj]: Consuming argument `air`
+[09Dec2024 06:21:51.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o796xhsnfcpj]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:51.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kiiiyujyf191]: started parsing
+[09Dec2024 06:21:51.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kiiiyujyf191]: Consuming argument `deepslate`
+[09Dec2024 06:21:51.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kiiiyujyf191]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:51.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0raj8ec1m34ru]: started parsing
+[09Dec2024 06:21:51.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0raj8ec1m34ru]: Consuming argument `deepslate`
+[09Dec2024 06:21:51.663] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0raj8ec1m34ru]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:52.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 06:21:56.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14zi0ik1egoez]: started parsing
+[09Dec2024 06:21:56.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14zi0ik1egoez]: Consuming argument `deepslate`
+[09Dec2024 06:21:56.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14zi0ik1egoez]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:56.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xi0bt59e2yzr]: started parsing
+[09Dec2024 06:21:56.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xi0bt59e2yzr]: Consuming argument `deepslate`
+[09Dec2024 06:21:56.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xi0bt59e2yzr]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:21:56.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g15qln2qfb5t]: started parsing
+[09Dec2024 06:21:56.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g15qln2qfb5t]: Consuming argument `deepslate`
+[09Dec2024 06:21:56.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g15qln2qfb5t]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:07.108] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067ihw15xkhk6]: started parsing
+[09Dec2024 06:22:07.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067ihw15xkhk6]: Consuming argument `deepslate`
+[09Dec2024 06:22:07.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067ihw15xkhk6]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:07.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxedk0ddv9co]: started parsing
+[09Dec2024 06:22:07.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxedk0ddv9co]: Consuming argument `deepslate`
+[09Dec2024 06:22:07.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxedk0ddv9co]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:08.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mfdfd25ztqe]: started parsing
+[09Dec2024 06:22:08.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mfdfd25ztqe]: Consuming argument `deepslate`
+[09Dec2024 06:22:08.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mfdfd25ztqe]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:08.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17fs83ifiubdm]: started parsing
+[09Dec2024 06:22:08.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17fs83ifiubdm]: Consuming argument `deepslate`
+[09Dec2024 06:22:08.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17fs83ifiubdm]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:09.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cluhxm5ppeep]: started parsing
+[09Dec2024 06:22:09.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cluhxm5ppeep]: Consuming argument `deepslate`
+[09Dec2024 06:22:09.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cluhxm5ppeep]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:09.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hx0xfnuqie4]: started parsing
+[09Dec2024 06:22:09.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hx0xfnuqie4]: Consuming argument `deepslate`
+[09Dec2024 06:22:09.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hx0xfnuqie4]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:09.617] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [112vesg5l3n4v]: started parsing
+[09Dec2024 06:22:09.617] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [112vesg5l3n4v]: Consuming argument `air`
+[09Dec2024 06:22:09.617] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [112vesg5l3n4v]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:09.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11qkfxibup9te]: started parsing
+[09Dec2024 06:22:09.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11qkfxibup9te]: Consuming argument `air`
+[09Dec2024 06:22:09.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11qkfxibup9te]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:10.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1844dnv9evepr]: started parsing
+[09Dec2024 06:22:10.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1844dnv9evepr]: Consuming argument `deepslate`
+[09Dec2024 06:22:10.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1844dnv9evepr]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:10.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1os52d9q5btgb]: started parsing
+[09Dec2024 06:22:10.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1os52d9q5btgb]: Consuming argument `deepslate`
+[09Dec2024 06:22:10.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1os52d9q5btgb]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 06:22:55.931] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1brtt18d8ril3]: started parsing
+[09Dec2024 06:22:55.931] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1brtt18d8ril3]: Consuming argument `deepslate`
+[09Dec2024 06:22:55.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1brtt18d8ril3]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:55.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13mpid4icg16m]: started parsing
+[09Dec2024 06:22:55.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13mpid4icg16m]: Consuming argument `deepslate`
+[09Dec2024 06:22:55.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13mpid4icg16m]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:56.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0srwth7n5i74f]: started parsing
+[09Dec2024 06:22:56.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0srwth7n5i74f]: Consuming argument `deepslate`
+[09Dec2024 06:22:56.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0srwth7n5i74f]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:22:58.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 06:22:58.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 06:23:09.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8ny3fttmi0p]: started parsing
+[09Dec2024 06:23:09.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8ny3fttmi0p]: Consuming argument `deepslate`
+[09Dec2024 06:23:09.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8ny3fttmi0p]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:09.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgy0rb2dn4da]: started parsing
+[09Dec2024 06:23:09.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgy0rb2dn4da]: Consuming argument `deepslate`
+[09Dec2024 06:23:09.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgy0rb2dn4da]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:10.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x9s2zrhd7ij4]: started parsing
+[09Dec2024 06:23:10.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x9s2zrhd7ij4]: Consuming argument `deepslate`
+[09Dec2024 06:23:10.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x9s2zrhd7ij4]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:15.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [056lk5zkpk80k]: started parsing
+[09Dec2024 06:23:15.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [056lk5zkpk80k]: Consuming argument `deepslate`
+[09Dec2024 06:23:15.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [056lk5zkpk80k]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:15.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13skpn37ga42p]: started parsing
+[09Dec2024 06:23:15.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13skpn37ga42p]: Consuming argument `deepslate`
+[09Dec2024 06:23:15.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13skpn37ga42p]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:16.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08q8sxk7ot1xr]: started parsing
+[09Dec2024 06:23:16.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08q8sxk7ot1xr]: Consuming argument `deepslate`
+[09Dec2024 06:23:16.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08q8sxk7ot1xr]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:16.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15rcy3kdld8qi]: started parsing
+[09Dec2024 06:23:16.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15rcy3kdld8qi]: Consuming argument `deepslate`
+[09Dec2024 06:23:16.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15rcy3kdld8qi]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:16.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h2e8qdnhaykn]: started parsing
+[09Dec2024 06:23:16.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h2e8qdnhaykn]: Consuming argument `deepslate`
+[09Dec2024 06:23:16.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h2e8qdnhaykn]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:36.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[09Dec2024 06:23:40.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n8p4ygit9tgp]: started parsing
+[09Dec2024 06:23:40.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n8p4ygit9tgp]: Consuming argument `deepslate`
+[09Dec2024 06:23:40.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n8p4ygit9tgp]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:40.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b7kfptoxyw6u]: started parsing
+[09Dec2024 06:23:40.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b7kfptoxyw6u]: Consuming argument `deepslate`
+[09Dec2024 06:23:40.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b7kfptoxyw6u]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:41.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zk1nno764gx]: started parsing
+[09Dec2024 06:23:41.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zk1nno764gx]: Consuming argument `deepslate`
+[09Dec2024 06:23:41.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zk1nno764gx]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:41.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vsubwq2x21oh]: started parsing
+[09Dec2024 06:23:41.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vsubwq2x21oh]: Consuming argument `deepslate`
+[09Dec2024 06:23:41.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vsubwq2x21oh]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:42.344] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079yu9cs8k9yz]: started parsing
+[09Dec2024 06:23:42.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079yu9cs8k9yz]: Consuming argument `deepslate`
+[09Dec2024 06:23:42.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079yu9cs8k9yz]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:42.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fbyb1u05p18]: started parsing
+[09Dec2024 06:23:42.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fbyb1u05p18]: Consuming argument `deepslate`
+[09Dec2024 06:23:42.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fbyb1u05p18]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:42.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bdjr0naaeqwe]: started parsing
+[09Dec2024 06:23:42.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bdjr0naaeqwe]: Consuming argument `air`
+[09Dec2024 06:23:42.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bdjr0naaeqwe]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:42.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wf908b9zt5y3]: started parsing
+[09Dec2024 06:23:42.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wf908b9zt5y3]: Consuming argument `air`
+[09Dec2024 06:23:42.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wf908b9zt5y3]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:23:43.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5w1zi15orl4]: started parsing
+[09Dec2024 06:23:43.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5w1zi15orl4]: Consuming argument `air`
+[09Dec2024 06:23:43.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5w1zi15orl4]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:24:12.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q7d7bo7afzx3]: started parsing
+[09Dec2024 06:24:12.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q7d7bo7afzx3]: Consuming argument `air`
+[09Dec2024 06:24:12.537] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q7d7bo7afzx3]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:24:12.537] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jo3d5qp524p1]: started parsing
+[09Dec2024 06:24:12.537] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jo3d5qp524p1]: Consuming argument `air`
+[09Dec2024 06:24:12.537] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jo3d5qp524p1]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:24:13.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13enf54jeq43p]: started parsing
+[09Dec2024 06:24:13.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13enf54jeq43p]: Consuming argument `deepslate`
+[09Dec2024 06:24:13.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13enf54jeq43p]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:24:13.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gqcxism0zle5]: started parsing
+[09Dec2024 06:24:13.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gqcxism0zle5]: Consuming argument `deepslate`
+[09Dec2024 06:24:13.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gqcxism0zle5]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:24:13.434] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sy5kvawgm5ys]: started parsing
+[09Dec2024 06:24:13.434] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sy5kvawgm5ys]: Consuming argument `deepslate`
+[09Dec2024 06:24:13.434] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sy5kvawgm5ys]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:24:27.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Dec2024 06:24:42.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZOMTASMA08 moved too quickly! 5.331141905417098,-8.37404208100915,3.9983929941631686
+[09Dec2024 06:24:52.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZOMTASMA08 lost connection: Disconnected
+[09Dec2024 06:24:52.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 left the game
+[09Dec2024 06:24:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> terrain puedes dormir?
+[09Dec2024 06:24:54.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12227ms or 244 ticks behind
+[09Dec2024 06:25:02.565] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 122 messages to dispatch.
+[09Dec2024 06:25:02.571] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[09Dec2024 06:25:02.618] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[09Dec2024 06:25:02.669] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[09Dec2024 06:25:02.705] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[09Dec2024 06:25:02.706] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[09Dec2024 06:25:02.706] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, cyclopscore, mowziesmobs, kuma_api, geckolib, playeranimator, itemproductionlib, jei, attributefix, skilltree, lionfishapi, wthit, waila, incendium, sophisticatedcore, cataclysm, curios, xaerominimap, waystones, epicfight, cerbons_api, citadel, evilcraft, evilcraftcompat, badpackets, armoroftheages, mixinextras, gobber2, sophisticatedbackpacks, deeperdarker, architectury, iceandfire, balm, bosses_of_mass_destruction, projectile_damage, soulsweapons, ars_nouveau, cloth_config, combatroll, simplyswords, forge, twilightforest, tlskincape]
+[09Dec2024 06:25:02.706] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'evilcraftcompat:channel_main' : Version test of '1.0.0' from client : ACCEPTED
+[09Dec2024 06:25:02.706] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[09Dec2024 06:25:02.706] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ars_nouveau:network' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 06:25:02.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[09Dec2024 06:25:02.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'soulsweapons:messages' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 06:25:02.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 06:25:02.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 06:25:02.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cyclopscore:channel_main' : Version test of '1.0.0' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.710] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 06:25:02.711] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'evilcraft:channel_main' : Version test of '1.0.0' from client : ACCEPTED
+[09Dec2024 06:25:02.711] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.711] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 06:25:02.711] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 06:25:02.712] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.712] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.712] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 06:25:02.712] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'combatroll:network' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 06:25:02.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skilltree:channel' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 06:25:02.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[09Dec2024 06:25:02.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 06:25:02.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[09Dec2024 06:25:02.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[09Dec2024 06:25:02.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[09Dec2024 06:25:02.715] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 06:25:02.715] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09Dec2024 06:25:02.715] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09Dec2024 06:25:02.728] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 3
+[09Dec2024 06:25:02.759] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09Dec2024 06:25:02.759] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:02.759] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:02.777] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:event_listeners' to 'fml:handshake' sequence 4
+[09Dec2024 06:25:02.819] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09Dec2024 06:25:02.819] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:02.819] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:02.822] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[09Dec2024 06:25:02.860] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09Dec2024 06:25:02.860] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:02.861] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:02.870] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[09Dec2024 06:25:02.915] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:damage_conditions' to 'fml:handshake' sequence 7
+[09Dec2024 06:25:02.960] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:living_conditions' to 'fml:handshake' sequence 8
+[09Dec2024 06:25:03.003] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[09Dec2024 06:25:03.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:enchantment_conditions' to 'fml:handshake' sequence 10
+[09Dec2024 06:25:03.092] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 11
+[09Dec2024 06:25:03.135] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:skill_bonuses' to 'fml:handshake' sequence 12
+[09Dec2024 06:25:03.175] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09Dec2024 06:25:03.176] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.176] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.177] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09Dec2024 06:25:03.177] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.177] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.177] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09Dec2024 06:25:03.177] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.177] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.178] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09Dec2024 06:25:03.178] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.178] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.209] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[09Dec2024 06:25:03.249] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09Dec2024 06:25:03.249] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.250] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.283] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:skill_bonus_multipliers' to 'fml:handshake' sequence 14
+[09Dec2024 06:25:03.296] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09Dec2024 06:25:03.296] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.296] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.338] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 15
+[09Dec2024 06:25:03.376] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09Dec2024 06:25:03.376] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.376] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.426] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09Dec2024 06:25:03.426] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.426] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.453] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[09Dec2024 06:25:03.541] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09Dec2024 06:25:03.541] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.541] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.565] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 17
+[09Dec2024 06:25:03.657] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09Dec2024 06:25:03.657] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.657] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.658] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 18
+[09Dec2024 06:25:03.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 19
+[09Dec2024 06:25:03.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 20
+[09Dec2024 06:25:03.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[09Dec2024 06:25:03.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.779] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 21
+[09Dec2024 06:25:03.785] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[09Dec2024 06:25:03.786] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.786] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.818] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 22
+[09Dec2024 06:25:03.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[09Dec2024 06:25:03.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.859] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:item_bonuses' to 'fml:handshake' sequence 23
+[09Dec2024 06:25:03.865] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[09Dec2024 06:25:03.865] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.866] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 24
+[09Dec2024 06:25:03.904] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[09Dec2024 06:25:03.904] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.904] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:03.957] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[09Dec2024 06:25:03.957] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:03.957] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.022] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[09Dec2024 06:25:04.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.024] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 25
+[09Dec2024 06:25:04.084] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 26
+[09Dec2024 06:25:04.110] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[09Dec2024 06:25:04.110] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.110] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.170] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[09Dec2024 06:25:04.171] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.171] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 27
+[09Dec2024 06:25:04.252] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 28
+[09Dec2024 06:25:04.276] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[09Dec2024 06:25:04.276] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.276] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.335] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[09Dec2024 06:25:04.336] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.336] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.380] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 29
+[09Dec2024 06:25:04.469] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[09Dec2024 06:25:04.469] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.469] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.528] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:gem_bonuses' to 'fml:handshake' sequence 30
+[09Dec2024 06:25:04.611] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[09Dec2024 06:25:04.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.622] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 31
+[09Dec2024 06:25:04.677] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 32
+[09Dec2024 06:25:04.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[09Dec2024 06:25:04.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.709] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.722] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 33
+[09Dec2024 06:25:04.766] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[09Dec2024 06:25:04.766] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.766] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.770] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:item_conditions' to 'fml:handshake' sequence 34
+[09Dec2024 06:25:04.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[09Dec2024 06:25:04.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.814] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 35
+[09Dec2024 06:25:04.859] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[09Dec2024 06:25:04.859] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:04.859] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:04.975] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_slowfall.toml' to 'fml:handshake' sequence 36
+[09Dec2024 06:25:05.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_blink.toml' to 'fml:handshake' sequence 37
+[09Dec2024 06:25:05.084] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_linger.toml' to 'fml:handshake' sequence 38
+[09Dec2024 06:25:05.116] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_intangible.toml' to 'fml:handshake' sequence 39
+[09Dec2024 06:25:05.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> ya xd
+[09Dec2024 06:25:05.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_touch.toml' to 'fml:handshake' sequence 40
+[09Dec2024 06:25:05.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/burst.toml' to 'fml:handshake' sequence 41
+[09Dec2024 06:25:05.206] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_vex.toml' to 'fml:handshake' sequence 42
+[09Dec2024 06:25:05.229] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_undead.toml' to 'fml:handshake' sequence 43
+[09Dec2024 06:25:05.253] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_dampen.toml' to 'fml:handshake' sequence 44
+[09Dec2024 06:25:05.278] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 45
+[09Dec2024 06:25:05.304] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_cut.toml' to 'fml:handshake' sequence 46
+[09Dec2024 06:25:05.327] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_accelerate.toml' to 'fml:handshake' sequence 47
+[09Dec2024 06:25:05.350] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_evaporate.toml' to 'fml:handshake' sequence 48
+[09Dec2024 06:25:05.379] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_duration_down.toml' to 'fml:handshake' sequence 49
+[09Dec2024 06:25:05.404] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_wolves.toml' to 'fml:handshake' sequence 50
+[09Dec2024 06:25:05.432] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_grow.toml' to 'fml:handshake' sequence 51
+[09Dec2024 06:25:05.455] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_animate_block.toml' to 'fml:handshake' sequence 52
+[09Dec2024 06:25:05.482] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_extract.toml' to 'fml:handshake' sequence 53
+[09Dec2024 06:25:05.507] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_fangs.toml' to 'fml:handshake' sequence 54
+[09Dec2024 06:25:05.529] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_ender_inventory.toml' to 'fml:handshake' sequence 55
+[09Dec2024 06:25:05.553] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_split.toml' to 'fml:handshake' sequence 56
+[09Dec2024 06:25:05.579] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/reset.toml' to 'fml:handshake' sequence 57
+[09Dec2024 06:25:05.603] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_amplify.toml' to 'fml:handshake' sequence 58
+[09Dec2024 06:25:05.627] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_aoe.toml' to 'fml:handshake' sequence 59
+[09Dec2024 06:25:05.650] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_hex.toml' to 'fml:handshake' sequence 60
+[09Dec2024 06:25:05.672] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_sensitive.toml' to 'fml:handshake' sequence 61
+[09Dec2024 06:25:05.697] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_lightning.toml' to 'fml:handshake' sequence 62
+[09Dec2024 06:25:05.720] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_leap.toml' to 'fml:handshake' sequence 63
+[09Dec2024 06:25:05.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_delay.toml' to 'fml:handshake' sequence 64
+[09Dec2024 06:25:05.780] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_pierce.toml' to 'fml:handshake' sequence 65
+[09Dec2024 06:25:05.804] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_flare.toml' to 'fml:handshake' sequence 66
+[09Dec2024 06:25:05.827] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_pull.toml' to 'fml:handshake' sequence 67
+[09Dec2024 06:25:05.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_freeze.toml' to 'fml:handshake' sequence 68
+[09Dec2024 06:25:05.872] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_toss.toml' to 'fml:handshake' sequence 69
+[09Dec2024 06:25:05.902] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_infuse.toml' to 'fml:handshake' sequence 70
+[09Dec2024 06:25:05.954] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_gravity.toml' to 'fml:handshake' sequence 71
+[09Dec2024 06:25:06.007] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_steed.toml' to 'fml:handshake' sequence 72
+[09Dec2024 06:25:06.063] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_phantom_block.toml' to 'fml:handshake' sequence 73
+[09Dec2024 06:25:06.107] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 74
+[09Dec2024 06:25:06.164] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_launch.toml' to 'fml:handshake' sequence 75
+[09Dec2024 06:25:06.235] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_smelt.toml' to 'fml:handshake' sequence 76
+[09Dec2024 06:25:06.262] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_crush.toml' to 'fml:handshake' sequence 77
+[09Dec2024 06:25:06.327] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_ignite.toml' to 'fml:handshake' sequence 78
+[09Dec2024 06:25:06.359] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_dispel.toml' to 'fml:handshake' sequence 79
+[09Dec2024 06:25:06.419] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_firework.toml' to 'fml:handshake' sequence 80
+[09Dec2024 06:25:06.474] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_randomize.toml' to 'fml:handshake' sequence 81
+[09Dec2024 06:25:06.524] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_harm.toml' to 'fml:handshake' sequence 82
+[09Dec2024 06:25:06.556] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_light.toml' to 'fml:handshake' sequence 83
+[09Dec2024 06:25:06.614] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_wall.toml' to 'fml:handshake' sequence 84
+[09Dec2024 06:25:06.658] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_orbit.toml' to 'fml:handshake' sequence 85
+[09Dec2024 06:25:06.710] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_explosion.toml' to 'fml:handshake' sequence 86
+[09Dec2024 06:25:06.756] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_fell.toml' to 'fml:handshake' sequence 87
+[09Dec2024 06:25:06.806] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_rune.toml' to 'fml:handshake' sequence 88
+[09Dec2024 06:25:06.854] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_craft.toml' to 'fml:handshake' sequence 89
+[09Dec2024 06:25:06.916] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/wololo.toml' to 'fml:handshake' sequence 90
+[09Dec2024 06:25:06.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau-server.toml' to 'fml:handshake' sequence 91
+[09Dec2024 06:25:07.015] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_conjure_water.toml' to 'fml:handshake' sequence 92
+[09Dec2024 06:25:07.069] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_extend_time.toml' to 'fml:handshake' sequence 93
+[09Dec2024 06:25:07.120] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_interact.toml' to 'fml:handshake' sequence 94
+[09Dec2024 06:25:07.151] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_cold_snap.toml' to 'fml:handshake' sequence 95
+[09Dec2024 06:25:07.179] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[09Dec2024 06:25:07.179] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.179] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[09Dec2024 06:25:07.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[09Dec2024 06:25:07.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[09Dec2024 06:25:07.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[09Dec2024 06:25:07.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 47
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 47 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 48
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 48 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 49
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 49 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 50
+[09Dec2024 06:25:07.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 50 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 51
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 51 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 52
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 52 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 53
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 53 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 54
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 54 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 55
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 55 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 56
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 56 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 57
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 57 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.189] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 58
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 58 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 59
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 59 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 60
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 60 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.191] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 61
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 61 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 62
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 62 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 63
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 63 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 64
+[09Dec2024 06:25:07.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 64 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 65
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 65 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 66
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 66 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 67
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 67 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 68
+[09Dec2024 06:25:07.194] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 68 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.194] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.194] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 69
+[09Dec2024 06:25:07.194] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 69 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.194] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.194] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 70
+[09Dec2024 06:25:07.194] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 70 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 71
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 71 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 72
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 72 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 73
+[09Dec2024 06:25:07.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 73 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.196] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.196] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 74
+[09Dec2024 06:25:07.196] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 74 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.196] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.196] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 75
+[09Dec2024 06:25:07.196] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 75 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.197] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.197] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 76
+[09Dec2024 06:25:07.197] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 76 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.198] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.198] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 77
+[09Dec2024 06:25:07.198] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 77 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.198] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.198] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 78
+[09Dec2024 06:25:07.198] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 78 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.199] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.199] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 79
+[09Dec2024 06:25:07.199] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 79 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.199] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.199] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 80
+[09Dec2024 06:25:07.199] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 80 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.199] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.199] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 81
+[09Dec2024 06:25:07.200] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 81 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.200] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.200] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 82
+[09Dec2024 06:25:07.200] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 82 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.200] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.200] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 83
+[09Dec2024 06:25:07.200] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 83 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.200] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 84
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 84 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 85
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 85 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 86
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 86 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.201] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 87
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 87 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 88
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 88 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 89
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 89 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.202] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.203] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 90
+[09Dec2024 06:25:07.203] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 90 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.203] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.203] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 91
+[09Dec2024 06:25:07.203] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 91 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.204] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.206] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 92
+[09Dec2024 06:25:07.206] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 92 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.206] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.206] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 93
+[09Dec2024 06:25:07.207] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 93 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.207] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.215] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 94
+[09Dec2024 06:25:07.216] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 94 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.216] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.235] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 95
+[09Dec2024 06:25:07.235] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 95 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.236] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.258] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_self.toml' to 'fml:handshake' sequence 96
+[09Dec2024 06:25:07.324] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_invisibility.toml' to 'fml:handshake' sequence 97
+[09Dec2024 06:25:07.352] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_heal.toml' to 'fml:handshake' sequence 98
+[09Dec2024 06:25:07.376] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_fortune.toml' to 'fml:handshake' sequence 99
+[09Dec2024 06:25:07.381] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 96
+[09Dec2024 06:25:07.382] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 96 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.382] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.409] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_pickup.toml' to 'fml:handshake' sequence 100
+[09Dec2024 06:25:07.420] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 97
+[09Dec2024 06:25:07.420] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 97 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.420] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.447] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 98
+[09Dec2024 06:25:07.447] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 98 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.447] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.461] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 101
+[09Dec2024 06:25:07.464] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 99
+[09Dec2024 06:25:07.464] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 99 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.465] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.496] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 100
+[09Dec2024 06:25:07.496] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 100 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.496] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.509] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_glide.toml' to 'fml:handshake' sequence 102
+[09Dec2024 06:25:07.549] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 101
+[09Dec2024 06:25:07.549] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 101 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.549] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.561] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/rewind.toml' to 'fml:handshake' sequence 103
+[09Dec2024 06:25:07.596] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 102
+[09Dec2024 06:25:07.596] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 102 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.596] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.614] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_projectile.toml' to 'fml:handshake' sequence 104
+[09Dec2024 06:25:07.649] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 103
+[09Dec2024 06:25:07.649] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 103 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.649] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.651] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_gust.toml' to 'fml:handshake' sequence 105
+[09Dec2024 06:25:07.699] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 104
+[09Dec2024 06:25:07.699] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 104 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.699] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.714] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_harvest.toml' to 'fml:handshake' sequence 106
+[09Dec2024 06:25:07.743] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 105
+[09Dec2024 06:25:07.744] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 105 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.744] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.768] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_decelerate.toml' to 'fml:handshake' sequence 107
+[09Dec2024 06:25:07.801] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 106
+[09Dec2024 06:25:07.801] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 106 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.801] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.829] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_snare.toml' to 'fml:handshake' sequence 108
+[09Dec2024 06:25:07.853] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 107
+[09Dec2024 06:25:07.854] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 107 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.854] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.854] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_wither.toml' to 'fml:handshake' sequence 109
+[09Dec2024 06:25:07.910] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_underfoot.toml' to 'fml:handshake' sequence 110
+[09Dec2024 06:25:07.914] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 108
+[09Dec2024 06:25:07.914] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 108 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.914] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.939] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 109
+[09Dec2024 06:25:07.939] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 109 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.939] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:07.958] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_name.toml' to 'fml:handshake' sequence 111
+[09Dec2024 06:25:07.996] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 110
+[09Dec2024 06:25:07.997] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 110 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:07.997] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.014] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_redstone_signal.toml' to 'fml:handshake' sequence 112
+[09Dec2024 06:25:08.045] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 111
+[09Dec2024 06:25:08.045] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 111 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.045] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.071] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_rotate.toml' to 'fml:handshake' sequence 113
+[09Dec2024 06:25:08.099] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 112
+[09Dec2024 06:25:08.100] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 112 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.100] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.101] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_break.toml' to 'fml:handshake' sequence 114
+[09Dec2024 06:25:08.127] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_place_block.toml' to 'fml:handshake' sequence 115
+[09Dec2024 06:25:08.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 113
+[09Dec2024 06:25:08.155] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 113 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.155] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.184] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_exchange.toml' to 'fml:handshake' sequence 116
+[09Dec2024 06:25:08.186] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 114
+[09Dec2024 06:25:08.186] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 114 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.186] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.211] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 115
+[09Dec2024 06:25:08.211] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 115 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.211] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.213] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 117
+[09Dec2024 06:25:08.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 116
+[09Dec2024 06:25:08.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 116 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.277] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_bounce.toml' to 'fml:handshake' sequence 118
+[09Dec2024 06:25:08.309] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 117
+[09Dec2024 06:25:08.309] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 117 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.309] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.322] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_decoy.toml' to 'fml:handshake' sequence 119
+[09Dec2024 06:25:08.364] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_sense_magic.toml' to 'fml:handshake' sequence 120
+[09Dec2024 06:25:08.364] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 118
+[09Dec2024 06:25:08.364] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 118 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.364] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.417] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 119
+[09Dec2024 06:25:08.417] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 119 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.417] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.430] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_wind_shear.toml' to 'fml:handshake' sequence 121
+[09Dec2024 06:25:08.444] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 120
+[09Dec2024 06:25:08.444] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 120 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.444] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.515] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 121
+[09Dec2024 06:25:08.515] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 121 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 06:25:08.515] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 06:25:08.551] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09Dec2024 06:25:08.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZOMTASMA08[/100.81.12.92:53557] logged in with entity id 38270 at (12145.946387588188, 64.0, 1679.699999988079)
+[09Dec2024 06:25:08.715] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@347deec1 into net.minecraft.network.Connection@6be69438
+[09Dec2024 06:25:08.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 joined the game
+[09Dec2024 06:25:12.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
+[09Dec2024 06:25:32.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5143ms or 102 ticks behind
+[09Dec2024 06:25:41.012] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1win3txle6ent]: started parsing
+[09Dec2024 06:25:41.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1win3txle6ent]: Consuming argument `deepslate`
+[09Dec2024 06:25:41.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1win3txle6ent]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:41.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvowjpcl1q39]: started parsing
+[09Dec2024 06:25:41.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvowjpcl1q39]: Consuming argument `deepslate`
+[09Dec2024 06:25:41.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvowjpcl1q39]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:41.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x5xk30py8gc1]: started parsing
+[09Dec2024 06:25:41.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x5xk30py8gc1]: Consuming argument `air`
+[09Dec2024 06:25:41.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x5xk30py8gc1]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:41.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rx0cnh2uaj68]: started parsing
+[09Dec2024 06:25:41.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rx0cnh2uaj68]: Consuming argument `air`
+[09Dec2024 06:25:41.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rx0cnh2uaj68]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:41.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08bfs8ujerm40]: started parsing
+[09Dec2024 06:25:41.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08bfs8ujerm40]: Consuming argument `deepslate`
+[09Dec2024 06:25:41.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08bfs8ujerm40]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:41.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0elmpuf0y1t77]: started parsing
+[09Dec2024 06:25:41.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0elmpuf0y1t77]: Consuming argument `deepslate`
+[09Dec2024 06:25:41.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0elmpuf0y1t77]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:41.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1232cjr653kvn]: started parsing
+[09Dec2024 06:25:41.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1232cjr653kvn]: Consuming argument `deepslate`
+[09Dec2024 06:25:41.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1232cjr653kvn]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:55.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0apg5wy288jot]: started parsing
+[09Dec2024 06:25:55.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0apg5wy288jot]: Consuming argument `deepslate`
+[09Dec2024 06:25:55.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0apg5wy288jot]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:55.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aldtdnjnkdac]: started parsing
+[09Dec2024 06:25:55.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aldtdnjnkdac]: Consuming argument `deepslate`
+[09Dec2024 06:25:55.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aldtdnjnkdac]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:55.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18w56wzjy3yr5]: started parsing
+[09Dec2024 06:25:55.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18w56wzjy3yr5]: Consuming argument `deepslate`
+[09Dec2024 06:25:55.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18w56wzjy3yr5]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:55.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0khfbx9w8ygim]: started parsing
+[09Dec2024 06:25:55.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0khfbx9w8ygim]: Consuming argument `deepslate`
+[09Dec2024 06:25:55.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0khfbx9w8ygim]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:56.194] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l8vpgpk7hotj]: started parsing
+[09Dec2024 06:25:56.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l8vpgpk7hotj]: Consuming argument `air`
+[09Dec2024 06:25:56.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l8vpgpk7hotj]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:56.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [134dx171tj1pm]: started parsing
+[09Dec2024 06:25:56.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [134dx171tj1pm]: Consuming argument `air`
+[09Dec2024 06:25:56.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [134dx171tj1pm]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:25:56.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tbixheobt8rt]: started parsing
+[09Dec2024 06:25:56.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tbixheobt8rt]: Consuming argument `air`
+[09Dec2024 06:25:56.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tbixheobt8rt]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:26:00.687] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13szd0j18v9ji]: started parsing
+[09Dec2024 06:26:00.687] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13szd0j18v9ji]: Consuming argument `air`
+[09Dec2024 06:26:00.688] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13szd0j18v9ji]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:26:00.688] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dny1jpa4tr9o]: started parsing
+[09Dec2024 06:26:00.688] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dny1jpa4tr9o]: Consuming argument `air`
+[09Dec2024 06:26:00.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dny1jpa4tr9o]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:26:00.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f3vo1y5fwtgw]: started parsing
+[09Dec2024 06:26:00.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f3vo1y5fwtgw]: Consuming argument `air`
+[09Dec2024 06:26:00.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f3vo1y5fwtgw]: Finished looking at arguments. Finalizing command.
+[09Dec2024 06:26:03.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind

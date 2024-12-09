@@ -2090,6 +2090,7 @@
       "sweet_berries": "2024-12-08 01:03:03 +0000",
       "cooked_beef": "2024-12-08 05:46:00 +0000",
       "apple": "2024-12-08 05:12:59 +0000",
+      "spider_eye": "2024-12-09 06:15:05 +0000",
       "bread": "2024-12-08 01:18:39 +0000",
       "golden_apple": "2024-12-08 05:16:01 +0000",
       "rotten_flesh": "2024-12-08 01:00:34 +0000",
@@ -4803,6 +4804,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_helmet": {
     "criteria": {
       "has_item": "2024-12-09 06:01:47 +0000"
@@ -4815,9 +4822,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2024-12-09 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:13 +0000"
     },
     "done": true
   },
@@ -4833,9 +4852,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-09 06:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-09 06:16:41 +0000"
     },
     "done": true
   },
@@ -4845,9 +4882,69 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-09 06:21:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-09 06:17:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2024-12-09 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:13 +0000"
     },
     "done": true
   },
@@ -4863,15 +4960,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2024-12-09 06:03:40 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-09 06:12:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_boots": {
     "criteria": {
       "has_item": "2024-12-09 06:01:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:33 +0000"
     },
     "done": true
   },
