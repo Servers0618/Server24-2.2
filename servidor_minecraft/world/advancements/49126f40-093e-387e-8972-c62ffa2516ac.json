@@ -4804,159 +4804,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2024-12-09 06:58:43 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_nuggets_copper": "2024-12-09 07:26:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2024-12-09 06:47:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_purple_helmet": {
     "criteria": {
       "has_item": "2024-12-09 06:01:47 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/silent_quiver": {
-    "criteria": {
-      "has_feather": "2024-12-09 06:06:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
-    "criteria": {
-      "has_item": "2024-12-09 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
-    "criteria": {
-      "has_dragonscales_electric": "2024-12-09 07:24:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2024-12-09 06:47:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-09 06:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-12-09 06:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-09 06:47:18 +0000"
     },
     "done": true
   },
@@ -4966,15 +4816,225 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-09 06:58:43 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_purple_chestplate": {
     "criteria": {
       "has_item": "2024-12-09 06:01:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 06:01:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2024-12-09 06:01:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-09 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-09 06:05:51 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2024-12-09 06:06:02 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2024-12-09 06:06:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-09 06:12:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-09 06:16:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-09 06:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-09 06:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-09 06:21:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-12-09 06:25:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-12-09 06:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 06:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 06:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 06:47:18 +0000"
     },
     "done": true
   },
@@ -4990,27 +5050,57 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_flute": {
+  "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
+      "has_planks": "2024-12-09 06:47:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
-      "has_poppy": "2024-12-09 06:05:51 +0000"
+      "has_planks": "2024-12-09 06:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 06:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 06:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-09 06:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-09 06:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-09 06:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-09 06:58:43 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-09 06:58:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
     },
     "done": true
   },
@@ -5032,57 +5122,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-09 06:16:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-09 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_leggings": {
-    "criteria": {
-      "has_item": "2024-12-09 07:24:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2024-12-09 07:26:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-09 06:58:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/amphithere_macuahuitl": {
-    "criteria": {
-      "has_item": "2024-12-09 06:25:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_helmet": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:33 +0000"
     },
     "done": true
   },
@@ -5092,75 +5134,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2024-12-09 07:26:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-09 06:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-12-09 06:21:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
-    "criteria": {
-      "has_dragonscales_red": "2024-12-09 06:17:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2024-12-09 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-09 06:47:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
-    "criteria": {
-      "has_item": "2024-12-09 07:07:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_boots": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2024-12-09 06:47:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/amphithere_arrow": {
-    "criteria": {
-      "has_item": "2024-12-09 06:25:43 +0000"
     },
     "done": true
   },
@@ -5170,63 +5146,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-09 06:47:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2024-12-09 06:17:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-09 06:58:43 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_leggings": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "has_item": "2024-12-09 06:17:13 +0000"
+      "has_stone": "2024-12-09 06:58:43 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/traveler_necklace": {
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
-      "has_feather": "2024-12-09 06:06:02 +0000"
+      "has_item": "2024-12-09 07:07:03 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/copper_ring": {
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
-      "has_nuggets_copper": "2024-12-09 07:26:12 +0000"
+      "has_dragonscales_electric": "2024-12-09 07:24:12 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+  "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
-      "has_item": "2024-12-09 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2024-12-09 06:03:40 +0000"
+      "has_item": "2024-12-09 07:24:12 +0000"
     },
     "done": true
   },
@@ -5236,33 +5182,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
-    "criteria": {
-      "bestiary": "2024-12-09 06:12:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_boots": {
-    "criteria": {
-      "has_item": "2024-12-09 06:01:47 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_electric_boots": {
     "criteria": {
       "has_item": "2024-12-09 07:24:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2024-12-09 06:47:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2024-12-09 06:17:29 +0000"
     },
     "done": true
   },
@@ -5272,21 +5194,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "skilltree:recipes/misc/copper_ingot": {
     "criteria": {
-      "has_item": "2024-12-09 06:17:33 +0000"
+      "has_nuggets_copper": "2024-12-09 07:26:12 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+  "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
-      "has_sea_serpent_scales_purple": "2024-12-09 06:01:47 +0000"
+      "has_item": "2024-12-09 07:26:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
-      "has_stone": "2024-12-09 06:58:43 +0000"
+      "has_item": "2024-12-09 07:26:12 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_ring": {
+    "criteria": {
+      "has_nuggets_copper": "2024-12-09 07:26:12 +0000"
     },
     "done": true
   },
