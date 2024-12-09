@@ -5228,6 +5228,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2024-12-09 20:15:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_helmet": {
     "criteria": {
       "has_item": "2024-12-09 20:00:30 +0000"
