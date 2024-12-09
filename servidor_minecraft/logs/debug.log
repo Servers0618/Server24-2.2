@@ -5443,3 +5443,161 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 01:29:35.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Dec2024 01:34:35.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Dec2024 01:34:35.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 01:35:23.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tppgxdq4ui4x]: started parsing
+[09Dec2024 01:35:23.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tppgxdq4ui4x]: Consuming argument `deepslate`
+[09Dec2024 01:35:23.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tppgxdq4ui4x]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:35:23.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ph4034xqoqx0]: started parsing
+[09Dec2024 01:35:23.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ph4034xqoqx0]: Consuming argument `deepslate`
+[09Dec2024 01:35:23.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ph4034xqoqx0]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:35:24.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 01:35:38.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 01:36:08.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 01:36:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 01:37:26.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p55cpajnwpah]: started parsing
+[09Dec2024 01:37:26.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p55cpajnwpah]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:37:34.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xtqxcsclglo5]: started parsing
+[09Dec2024 01:37:34.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xtqxcsclglo5]: Consuming argument `deepslate`
+[09Dec2024 01:37:34.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xtqxcsclglo5]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:37:34.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jqdfmyllx61y]: started parsing
+[09Dec2024 01:37:34.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jqdfmyllx61y]: Consuming argument `deepslate`
+[09Dec2024 01:37:34.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jqdfmyllx61y]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:37:35.031] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h9c2rwioq6l8]: started parsing
+[09Dec2024 01:37:35.032] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h9c2rwioq6l8]: Consuming argument `deepslate`
+[09Dec2024 01:37:35.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h9c2rwioq6l8]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:39:35.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 01:39:35.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 01:39:55.529] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12wc6d4d0hgks]: started parsing
+[09Dec2024 01:39:55.529] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12wc6d4d0hgks]: Consuming argument `deepslate`
+[09Dec2024 01:39:55.529] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12wc6d4d0hgks]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:39:55.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ns8ppobp3hra]: started parsing
+[09Dec2024 01:39:55.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ns8ppobp3hra]: Consuming argument `deepslate`
+[09Dec2024 01:39:55.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ns8ppobp3hra]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:39:56.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iyflhr2p7uwy]: started parsing
+[09Dec2024 01:39:56.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iyflhr2p7uwy]: Consuming argument `deepslate`
+[09Dec2024 01:39:56.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iyflhr2p7uwy]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:13.075] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv6s33nvjv9l]: started parsing
+[09Dec2024 01:41:13.075] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv6s33nvjv9l]: Consuming argument `deepslate`
+[09Dec2024 01:41:13.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv6s33nvjv9l]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:13.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fxhmjpki1gvq]: started parsing
+[09Dec2024 01:41:13.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fxhmjpki1gvq]: Consuming argument `deepslate`
+[09Dec2024 01:41:13.077] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fxhmjpki1gvq]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:13.863] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14tj1si6n2kv7]: started parsing
+[09Dec2024 01:41:13.863] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14tj1si6n2kv7]: Consuming argument `deepslate`
+[09Dec2024 01:41:13.863] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14tj1si6n2kv7]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:17.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g4j16zyk5frg]: started parsing
+[09Dec2024 01:41:17.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g4j16zyk5frg]: Consuming argument `deepslate`
+[09Dec2024 01:41:17.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g4j16zyk5frg]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:17.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xyqhhz1c5vet]: started parsing
+[09Dec2024 01:41:17.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xyqhhz1c5vet]: Consuming argument `deepslate`
+[09Dec2024 01:41:17.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xyqhhz1c5vet]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:17.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1709wmym89q1f]: started parsing
+[09Dec2024 01:41:17.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1709wmym89q1f]: Consuming argument `deepslate`
+[09Dec2024 01:41:17.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1709wmym89q1f]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:41.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wuxot9wb5jr6]: started parsing
+[09Dec2024 01:41:41.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wuxot9wb5jr6]: Consuming argument `deepslate`
+[09Dec2024 01:41:41.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wuxot9wb5jr6]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:41.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [008f2shqn0w9n]: started parsing
+[09Dec2024 01:41:41.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [008f2shqn0w9n]: Consuming argument `deepslate`
+[09Dec2024 01:41:41.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [008f2shqn0w9n]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:43.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 01:41:47.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cp24meornmqa]: started parsing
+[09Dec2024 01:41:47.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cp24meornmqa]: Consuming argument `deepslate`
+[09Dec2024 01:41:47.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cp24meornmqa]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:47.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ert2vgbkx45n]: started parsing
+[09Dec2024 01:41:47.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ert2vgbkx45n]: Consuming argument `deepslate`
+[09Dec2024 01:41:47.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ert2vgbkx45n]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:47.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [136h6xf7pfwvx]: started parsing
+[09Dec2024 01:41:47.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [136h6xf7pfwvx]: Consuming argument `deepslate`
+[09Dec2024 01:41:47.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [136h6xf7pfwvx]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:53.206] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15eb6b9349zvz]: started parsing
+[09Dec2024 01:41:53.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15eb6b9349zvz]: Consuming argument `deepslate`
+[09Dec2024 01:41:53.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15eb6b9349zvz]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:53.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ad0s7bbet03m]: started parsing
+[09Dec2024 01:41:53.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ad0s7bbet03m]: Consuming argument `deepslate`
+[09Dec2024 01:41:53.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ad0s7bbet03m]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:41:53.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1hwgq9xd0a3]: started parsing
+[09Dec2024 01:41:53.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1hwgq9xd0a3]: Consuming argument `deepslate`
+[09Dec2024 01:41:53.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1hwgq9xd0a3]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:43:46.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x650d5acth8g]: started parsing
+[09Dec2024 01:43:46.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x650d5acth8g]: Consuming argument `deepslate`
+[09Dec2024 01:43:46.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x650d5acth8g]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:43:46.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jses1gp1fgod]: started parsing
+[09Dec2024 01:43:46.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jses1gp1fgod]: Consuming argument `deepslate`
+[09Dec2024 01:43:46.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jses1gp1fgod]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:43:46.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ewdkqtyd5o46]: started parsing
+[09Dec2024 01:43:46.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ewdkqtyd5o46]: Consuming argument `deepslate`
+[09Dec2024 01:43:46.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ewdkqtyd5o46]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:43:55.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1clf89k8llf66]: started parsing
+[09Dec2024 01:43:55.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1clf89k8llf66]: Consuming argument `deepslate`
+[09Dec2024 01:43:55.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1clf89k8llf66]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:43:55.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e70x9vqzv22h]: started parsing
+[09Dec2024 01:43:55.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e70x9vqzv22h]: Consuming argument `deepslate`
+[09Dec2024 01:43:55.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e70x9vqzv22h]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:43:55.310] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wegvsv2q4mb5]: started parsing
+[09Dec2024 01:43:55.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wegvsv2q4mb5]: Consuming argument `deepslate`
+[09Dec2024 01:43:55.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wegvsv2q4mb5]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:00.918] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pe2mzuruczul]: started parsing
+[09Dec2024 01:44:00.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pe2mzuruczul]: Consuming argument `deepslate`
+[09Dec2024 01:44:00.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pe2mzuruczul]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:00.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hff0ujux66p3]: started parsing
+[09Dec2024 01:44:00.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hff0ujux66p3]: Consuming argument `deepslate`
+[09Dec2024 01:44:00.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hff0ujux66p3]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:01.268] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lcl5z2tvy6zb]: started parsing
+[09Dec2024 01:44:01.268] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lcl5z2tvy6zb]: Consuming argument `deepslate`
+[09Dec2024 01:44:01.268] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lcl5z2tvy6zb]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:01.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sfrnfws3yeww]: started parsing
+[09Dec2024 01:44:01.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sfrnfws3yeww]: Consuming argument `deepslate`
+[09Dec2024 01:44:01.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sfrnfws3yeww]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:02.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 01:44:13.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02j7zqo0haknk]: started parsing
+[09Dec2024 01:44:13.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02j7zqo0haknk]: Consuming argument `deepslate`
+[09Dec2024 01:44:13.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02j7zqo0haknk]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:13.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ksr6o8bq26e]: started parsing
+[09Dec2024 01:44:13.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ksr6o8bq26e]: Consuming argument `deepslate`
+[09Dec2024 01:44:13.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ksr6o8bq26e]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:13.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sp8dsbx1bi1u]: started parsing
+[09Dec2024 01:44:13.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sp8dsbx1bi1u]: Consuming argument `deepslate`
+[09Dec2024 01:44:13.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sp8dsbx1bi1u]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:14.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fihgi4nww1kp]: started parsing
+[09Dec2024 01:44:14.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fihgi4nww1kp]: Consuming argument `deepslate`
+[09Dec2024 01:44:14.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fihgi4nww1kp]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:14.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wurddddnz43j]: started parsing
+[09Dec2024 01:44:14.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wurddddnz43j]: Consuming argument `deepslate`
+[09Dec2024 01:44:14.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wurddddnz43j]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:15.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09cbm17flprd7]: started parsing
+[09Dec2024 01:44:15.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09cbm17flprd7]: Consuming argument `deepslate`
+[09Dec2024 01:44:15.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09cbm17flprd7]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:15.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wqp49ul0xxf2]: started parsing
+[09Dec2024 01:44:15.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wqp49ul0xxf2]: Consuming argument `deepslate`
+[09Dec2024 01:44:15.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wqp49ul0xxf2]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:16.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 01:44:22.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oyzew0aytkg4]: started parsing
+[09Dec2024 01:44:22.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oyzew0aytkg4]: Consuming argument `deepslate`
+[09Dec2024 01:44:22.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oyzew0aytkg4]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:22.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cbbt9rsqy054]: started parsing
+[09Dec2024 01:44:22.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cbbt9rsqy054]: Consuming argument `deepslate`
+[09Dec2024 01:44:22.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cbbt9rsqy054]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:23.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oqacafg1qld5]: started parsing
+[09Dec2024 01:44:23.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oqacafg1qld5]: Consuming argument `deepslate`
+[09Dec2024 01:44:23.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oqacafg1qld5]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:23.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wis5dtuj9mqu]: started parsing
+[09Dec2024 01:44:23.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wis5dtuj9mqu]: Consuming argument `deepslate`
+[09Dec2024 01:44:23.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wis5dtuj9mqu]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:23.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seykr2qbd8pt]: started parsing
+[09Dec2024 01:44:23.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seykr2qbd8pt]: Consuming argument `deepslate`
+[09Dec2024 01:44:23.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seykr2qbd8pt]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:27.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dn59frqokv4v]: started parsing
+[09Dec2024 01:44:27.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dn59frqokv4v]: Consuming argument `deepslate`
+[09Dec2024 01:44:27.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dn59frqokv4v]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:27.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04rqezro65tss]: started parsing
+[09Dec2024 01:44:27.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04rqezro65tss]: Consuming argument `deepslate`
+[09Dec2024 01:44:27.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04rqezro65tss]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:27.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10yn4nufwv39t]: started parsing
+[09Dec2024 01:44:27.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10yn4nufwv39t]: Consuming argument `deepslate`
+[09Dec2024 01:44:27.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10yn4nufwv39t]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:27.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160okbu6yfkne]: started parsing
+[09Dec2024 01:44:27.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160okbu6yfkne]: Consuming argument `deepslate`
+[09Dec2024 01:44:27.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160okbu6yfkne]: Finished looking at arguments. Finalizing command.
+[09Dec2024 01:44:28.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 01:44:35.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 01:44:35.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
