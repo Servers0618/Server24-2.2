@@ -5245,6 +5245,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_chestplate": "2024-12-09 23:26:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-09 22:22:38 +0000"
