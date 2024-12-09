@@ -2126,3 +2126,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 23:49:36.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> pero ahorita mas noche
 [09Dec2024 23:49:47.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 lost connection: Disconnected
 [09Dec2024 23:49:47.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 left the game
+[09Dec2024 23:55:03.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 23:55:47.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
+[09Dec2024 23:56:04.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 23:56:16.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
+[09Dec2024 23:56:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 23:57:46.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[09Dec2024 23:57:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
+[09Dec2024 23:57:55.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Dec2024 23:57:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Dec2024 23:57:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Dec2024 23:57:55.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Dec2024 23:57:55.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[09Dec2024 23:57:55.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[09Dec2024 23:57:55.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Dec2024 23:57:55.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Dec2024 23:57:55.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Dec2024 23:57:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[09Dec2024 23:57:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09Dec2024 23:57:55.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Dec2024 23:57:55.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Dec2024 23:57:55.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
