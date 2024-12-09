@@ -547,3 +547,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 07:43:51.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Michak1 moved too quickly! 4.640910518450255,-7.441588773348588,-5.330235105842462
 [09Dec2024 07:43:55.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9913ms or 198 ticks behind
 [09Dec2024 07:49:28.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[09Dec2024 07:49:46.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3448ms or 68 ticks behind
+[09Dec2024 07:52:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 07:53:09.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Michak1]
+[09Dec2024 07:53:14.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> wtf
+[09Dec2024 07:53:27.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> y eso
+[09Dec2024 07:53:43.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> que nadie se va a poner en el desparche de meter animales a ese crater
+[09Dec2024 07:53:49.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to ZOMTASMA08]
+[09Dec2024 07:54:03.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> eso es un facto
+[09Dec2024 07:54:12.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> tome zom
+[09Dec2024 07:54:15.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> los guardare mientras
+[09Dec2024 07:55:03.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 07:55:45.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [The Parrots and the Bats]
+[09Dec2024 07:56:05.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 was blown up by Creeper
+[09Dec2024 07:56:09.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 07:56:25.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 07:56:45.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> negrito me aiudas?
+[09Dec2024 07:57:01.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
+[09Dec2024 07:57:14.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> donde fue
+[09Dec2024 07:57:27.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported ZOMTASMA08 to Terrain32]
+[09Dec2024 07:57:30.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> esto
+[09Dec2024 07:57:40.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 07:58:05.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 07:58:25.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 07:59:09.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Second Age]
+[09Dec2024 07:59:46.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
