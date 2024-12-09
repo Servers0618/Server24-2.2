@@ -230,3 +230,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 04:39:32.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
 [09Dec2024 04:39:39.212] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
 [09Dec2024 04:40:35.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 was slain by Enderman
+[09Dec2024 05:00:37.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 was blown up by Creeper
