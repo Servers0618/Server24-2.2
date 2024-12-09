@@ -1707,6 +1707,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-08 07:12:21 +0000",
       "minecraft:taiga": "2024-12-08 03:59:13 +0000",
+      "minecraft:deep_ocean": "2024-12-09 23:07:59 +0000",
       "minecraft:cherry_grove": "2024-12-08 00:56:35 +0000",
       "minecraft:birch_forest": "2024-12-08 07:11:15 +0000",
       "minecraft:beach": "2024-12-08 08:33:18 +0000",
@@ -5744,6 +5745,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-09 22:51:56 +0000"
@@ -5768,6 +5775,18 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-09 22:25:16 +0000"
@@ -5786,6 +5805,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:bluemoon_tools": {
     "criteria": {
       "soulsweapons:bluemoon_greatsword": "2024-12-09 22:03:47 +0000"
@@ -5795,6 +5820,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-09 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2024-12-09 23:10:02 +0000"
     },
     "done": true
   },
