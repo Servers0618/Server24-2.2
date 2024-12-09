@@ -238,3 +238,66 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 05:26:48.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to ZOMTASMA08]
 [09Dec2024 05:27:52.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
 [09Dec2024 05:39:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Hot Stuff]
+[09Dec2024 05:48:26.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Michak1[/100.88.119.109:56994] logged in with entity id 17380 at (12080.26107018789, 61.0, 1395.1067275714584)
+[09Dec2024 05:48:26.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Michak1 joined the game
+[09Dec2024 05:49:03.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> zom
+[09Dec2024 05:49:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> el tp a tu casa murio=
+[09Dec2024 05:49:08.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> dime
+[09Dec2024 05:49:11.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> ?
+[09Dec2024 05:49:32.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> lo cambie ahora viene a cogerlo
+[09Dec2024 05:49:38.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> ya
+[09Dec2024 05:49:53.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> te quieres tanquear un flechaso?
+[09Dec2024 05:50:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> ANDO EN DISC
+[09Dec2024 05:50:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> voy
+[09Dec2024 05:50:09.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> Q PEREZESCRIBIR
+[09Dec2024 05:50:16.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> si si voy
+[09Dec2024 05:50:21.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> wat
+[09Dec2024 05:50:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[09Dec2024 05:52:44.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 was shot by Michak1
+[09Dec2024 05:52:50.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> a
+[09Dec2024 05:52:51.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> jajajajaaj
+[09Dec2024 05:52:56.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> fue uno solo
+[09Dec2024 05:53:01.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> full vida
+[09Dec2024 05:53:11.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> que arco?
+[09Dec2024 05:53:17.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> gobber
+[09Dec2024 05:53:17.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> que arco?
+[09Dec2024 05:53:20.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> power 4
+[09Dec2024 05:53:28.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> quieres intentar aguantar 1? xd
+[09Dec2024 05:53:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> no asi estoy bienxd
+[09Dec2024 05:53:42.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> llega disc no?
+[09Dec2024 05:53:49.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> no asi estoy bienxd
+[09Dec2024 05:53:53.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> a
+[09Dec2024 05:53:59.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> es que estoy con musica jajaja
+[09Dec2024 05:54:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> va
+[09Dec2024 05:55:49.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[09Dec2024 05:56:10.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6270ms or 125 ticks behind
+[09Dec2024 05:56:21.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 has made the advancement [Cover Me with Diamonds]
+[09Dec2024 05:56:33.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8038ms or 160 ticks behind
+[09Dec2024 05:57:01.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[09Dec2024 05:57:20.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[09Dec2024 05:57:28.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11731ms or 234 ticks behind
+[09Dec2024 05:57:37.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> el inifity no funciona btw
+[09Dec2024 05:57:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> por
+[09Dec2024 05:57:52.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Michak1> nose
+[09Dec2024 05:57:52.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3211ms or 64 ticks behind
+[09Dec2024 05:58:18.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10954ms or 219 ticks behind
+[09Dec2024 05:58:38.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[09Dec2024 05:58:57.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[09Dec2024 05:59:34.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[09Dec2024 05:59:44.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Michak1) moved too quickly! 6.342572698369622,0.0,8.236098512247509
+[09Dec2024 05:59:44.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Michak1) moved too quickly! 6.584622090622361,0.0,8.55414221157639
+[09Dec2024 06:00:00.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10831ms or 216 ticks behind
+[09Dec2024 06:00:22.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6736ms or 134 ticks behind
+[09Dec2024 06:00:45.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8474ms or 169 ticks behind
+[09Dec2024 06:01:08.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8448ms or 168 ticks behind
+[09Dec2024 06:01:30.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6808ms or 136 ticks behind
+[09Dec2024 06:01:53.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7943ms or 158 ticks behind
+[09Dec2024 06:02:11.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
+[09Dec2024 06:03:36.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[09Dec2024 06:04:02.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[09Dec2024 06:04:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> NEGRO
+[09Dec2024 06:04:07.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> dime
+[09Dec2024 06:04:20.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> tu q faccion eres?
+[09Dec2024 06:04:21.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4061ms or 81 ticks behind
+[09Dec2024 06:04:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> faccion de q
+[09Dec2024 06:04:38.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terrain32> hay algun hpta en barco?
