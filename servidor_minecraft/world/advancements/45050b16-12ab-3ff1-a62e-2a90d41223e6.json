@@ -1715,6 +1715,7 @@
       "minecraft:river": "2024-12-07 05:39:03 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 07:34:55 +0000",
       "minecraft:snowy_plains": "2024-12-08 04:07:47 +0000",
+      "minecraft:stony_shore": "2024-12-10 16:14:04 +0000",
       "minecraft:dripstone_caves": "2024-12-07 05:16:58 +0000",
       "minecraft:snowy_taiga": "2024-12-08 04:09:01 +0000",
       "minecraft:forest": "2024-12-07 06:04:45 +0000",
@@ -5604,6 +5605,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-10 04:41:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-10 16:18:05 +0000"
     },
     "done": true
   },
