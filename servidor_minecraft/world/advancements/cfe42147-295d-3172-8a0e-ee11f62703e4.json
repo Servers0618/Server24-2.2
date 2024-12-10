@@ -2572,8 +2572,10 @@
       "minecraft:spider": "2024-12-07 06:34:30 +0000",
       "minecraft:creeper": "2024-12-07 07:28:37 +0000",
       "minecraft:phantom": "2024-12-07 20:42:12 +0000",
+      "minecraft:wither_skeleton": "2024-12-10 03:50:07 +0000",
       "minecraft:cave_spider": "2024-12-10 03:33:13 +0000",
       "minecraft:enderman": "2024-12-09 01:34:21 +0000",
+      "minecraft:silverfish": "2024-12-10 03:49:45 +0000",
       "minecraft:stray": "2024-12-10 03:39:11 +0000",
       "minecraft:zombie": "2024-12-07 05:46:26 +0000",
       "minecraft:zombie_villager": "2024-12-07 06:36:21 +0000"
@@ -4916,6 +4918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-10 03:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2024-12-10 03:22:32 +0000"
@@ -4964,6 +4972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-10 03:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-10 01:13:28 +0000"
@@ -4991,6 +5005,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-10 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-10 03:50:25 +0000"
     },
     "done": true
   },
