@@ -4810,6 +4810,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-10 04:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-10 04:05:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2024-12-10 02:55:17 +0000"
@@ -4864,6 +4876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-10 04:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2024-12-10 01:13:28 +0000"
@@ -4873,6 +4891,12 @@
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2024-12-10 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-10 04:05:08 +0000"
     },
     "done": true
   },
@@ -4990,9 +5014,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-10 04:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2024-12-10 01:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-10 04:05:08 +0000"
     },
     "done": true
   },
