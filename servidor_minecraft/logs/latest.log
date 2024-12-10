@@ -1688,3 +1688,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 04:46:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 was shot by Skeleton
 [10Dec2024 04:47:34.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 has made the advancement [A... Fake?]
 [10Dec2024 04:47:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 has reached the goal [Switcharoo!]
+[10Dec2024 04:58:17.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Dec2024 05:00:24.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 lost connection: Disconnected
+[10Dec2024 05:00:24.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 left the game
+[10Dec2024 05:15:25.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 has made the advancement [Splintering II]
+[10Dec2024 05:18:24.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ratachi1398 moved wrongly!
