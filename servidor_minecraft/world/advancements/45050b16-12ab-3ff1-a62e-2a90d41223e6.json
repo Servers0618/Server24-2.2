@@ -1718,6 +1718,7 @@
       "minecraft:stony_shore": "2024-12-10 16:14:04 +0000",
       "minecraft:dripstone_caves": "2024-12-07 05:16:58 +0000",
       "minecraft:snowy_taiga": "2024-12-08 04:09:01 +0000",
+      "minecraft:cold_ocean": "2024-12-10 16:37:48 +0000",
       "minecraft:forest": "2024-12-07 06:04:45 +0000",
       "minecraft:frozen_ocean": "2024-12-08 04:17:04 +0000",
       "minecraft:jungle": "2024-12-08 07:33:59 +0000",
@@ -5605,6 +5606,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-10 04:41:11 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2024-12-10 16:37:54 +0000"
     },
     "done": true
   },
