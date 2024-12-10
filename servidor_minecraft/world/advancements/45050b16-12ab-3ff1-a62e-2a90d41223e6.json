@@ -1721,6 +1721,7 @@
       "minecraft:cold_ocean": "2024-12-10 16:37:48 +0000",
       "minecraft:forest": "2024-12-07 06:04:45 +0000",
       "minecraft:frozen_ocean": "2024-12-08 04:17:04 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-10 16:51:08 +0000",
       "minecraft:jungle": "2024-12-08 07:33:59 +0000",
       "minecraft:snowy_beach": "2024-12-08 04:13:50 +0000",
       "minecraft:flower_forest": "2024-12-08 07:41:47 +0000",
@@ -5609,6 +5610,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 16:57:41 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/arsonist_necklace": {
     "criteria": {
       "has_fire_charge": "2024-12-10 16:37:54 +0000"
@@ -5621,15 +5628,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-10 16:55:01 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2024-12-10 16:47:52 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-10 16:56:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-10 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-10 16:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-12-10 16:41:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 16:57:41 +0000"
     },
     "done": true
   },
@@ -5642,6 +5691,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-12-10 16:41:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-10 16:57:35 +0000"
     },
     "done": true
   },

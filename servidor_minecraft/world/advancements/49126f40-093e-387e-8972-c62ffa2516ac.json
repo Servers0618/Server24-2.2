@@ -5883,87 +5883,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 03:52:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2024-12-10 03:40:34 +0000"
+      "killed_fire_dragon": "2024-12-10 02:41:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_bricks": "2024-12-10 03:40:34 +0000"
+      "has_stone_slab": "2024-12-10 02:49:03 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2024-12-10 03:27:01 +0000"
     },
     "done": true
   },
@@ -5979,21 +5913,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 03:39:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-12-10 03:39:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 03:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2024-12-10 03:40:34 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/use_tide_trident": {
+  "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
-      "shot_arrow": "2024-12-10 03:47:04 +0000"
+      "has_bricks": "2024-12-10 03:40:34 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_cyclops": {
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-10 02:41:37 +0000"
+      "has_bricks": "2024-12-10 03:40:34 +0000"
     },
     "done": true
   },
@@ -6003,9 +5955,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_helmet": {
+  "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
-      "has_item": "2024-12-10 03:39:04 +0000"
+      "has_bricks": "2024-12-10 03:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-10 03:40:34 +0000"
     },
     "done": true
   },
@@ -6021,18 +5979,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2024-12-10 03:39:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/ghost_sword": {
-    "criteria": {
-      "has_item": "2024-12-10 03:41:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2024-12-10 03:40:35 +0000"
@@ -6045,33 +5991,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab": {
+  "iceandfire:recipes/combat/ghost_sword": {
     "criteria": {
-      "has_bricks": "2024-12-10 03:40:34 +0000"
+      "has_item": "2024-12-10 03:41:12 +0000"
     },
     "done": true
   },
-  "evilcraft:cannibal": {
+  "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
-      "criteria_0": "2024-12-10 03:27:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-10 03:40:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2024-12-10 02:49:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_boots": {
-    "criteria": {
-      "has_item": "2024-12-10 03:39:04 +0000"
+      "shot_arrow": "2024-12-10 03:47:04 +0000"
     },
     "done": true
   },
