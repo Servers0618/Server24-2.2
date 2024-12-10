@@ -5739,87 +5739,45 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "soulsweapons:all_weapons": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
+      "bluemoon_great": "2024-12-09 22:03:47 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "soulsweapons:bluemoon_tools": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
+      "soulsweapons:bluemoon_greatsword": "2024-12-09 22:03:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
+      "has_sea_pickle": "2024-12-09 22:20:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
+      "has_clay_ball": "2024-12-09 22:25:16 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
+      "has_clay_ball": "2024-12-09 22:25:16 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
+      "has_bowl": "2024-12-09 22:37:02 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:35:34 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2024-12-09 22:46:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_leggings": {
-    "criteria": {
-      "has_item": "2024-12-09 23:10:02 +0000"
     },
     "done": true
   },
@@ -5841,30 +5799,6 @@
     },
     "done": true
   },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "bluemoon_great": "2024-12-09 22:03:47 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/tide_blue_boots": {
-    "criteria": {
-      "has_item": "2024-12-09 23:10:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-09 23:10:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-12-09 22:25:16 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2024-12-09 22:51:56 +0000"
@@ -5877,33 +5811,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_helmet": {
-    "criteria": {
-      "has_item": "2024-12-09 23:10:02 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:bluemoon_tools": {
-    "criteria": {
-      "soulsweapons:bluemoon_greatsword": "2024-12-09 22:03:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-09 22:51:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
-    "criteria": {
-      "has_sea_serpent_scales_blue": "2024-12-09 23:10:02 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2024-12-09 23:17:32 +0000"
     },
     "done": true
   },
@@ -5913,21 +5823,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-12-09 22:20:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-09 22:51:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2024-12-09 22:25:16 +0000"
     },
     "done": true
   },
@@ -5943,9 +5841,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
-      "has_bowl": "2024-12-09 22:37:02 +0000"
+      "has_item": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2024-12-09 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-09 23:17:32 +0000"
     },
     "done": true
   },
