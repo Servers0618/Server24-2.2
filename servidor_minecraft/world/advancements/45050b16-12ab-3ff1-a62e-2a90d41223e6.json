@@ -5557,6 +5557,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-10 02:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-10 02:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-12-10 02:49:09 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_bow": {
     "criteria": {
       "gobber2_bow": "2024-12-10 03:04:44 +0000"
@@ -5575,27 +5593,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2024-12-10 02:49:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-10 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-12-10 02:43:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2024-12-10 02:43:53 +0000"
     },
     "done": true
   },
