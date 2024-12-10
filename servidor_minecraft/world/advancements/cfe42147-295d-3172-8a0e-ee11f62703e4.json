@@ -5074,5 +5074,23 @@
     },
     "done": true
   },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_great": "2024-12-10 04:47:34 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_greatsword": "2024-12-10 04:47:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:trickweapon": {
+    "criteria": {
+      "weapon": "2024-12-10 04:47:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
