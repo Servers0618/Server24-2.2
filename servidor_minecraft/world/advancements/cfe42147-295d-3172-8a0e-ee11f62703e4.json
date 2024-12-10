@@ -2572,7 +2572,9 @@
       "minecraft:spider": "2024-12-07 06:34:30 +0000",
       "minecraft:creeper": "2024-12-07 07:28:37 +0000",
       "minecraft:phantom": "2024-12-07 20:42:12 +0000",
+      "minecraft:cave_spider": "2024-12-10 03:33:13 +0000",
       "minecraft:enderman": "2024-12-09 01:34:21 +0000",
+      "minecraft:stray": "2024-12-10 03:39:11 +0000",
       "minecraft:zombie": "2024-12-07 05:46:26 +0000",
       "minecraft:zombie_villager": "2024-12-07 06:36:21 +0000"
     },
@@ -2731,7 +2733,8 @@
       "bread": "2024-12-08 02:43:16 +0000",
       "golden_apple": "2024-12-09 08:04:53 +0000",
       "melon_slice": "2024-12-08 02:53:26 +0000",
-      "cooked_chicken": "2024-12-07 06:30:48 +0000"
+      "cooked_chicken": "2024-12-07 06:30:48 +0000",
+      "carrot": "2024-12-10 03:38:56 +0000"
     },
     "done": false
   },
