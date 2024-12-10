@@ -5080,6 +5080,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-10 05:15:25 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:bluemoon_tools": {
     "criteria": {
       "soulsweapons:bluemoon_greatsword": "2024-12-10 04:47:34 +0000"
@@ -5089,6 +5095,30 @@
   "soulsweapons:trickweapon": {
     "criteria": {
       "weapon": "2024-12-10 04:47:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-12-10 05:19:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-12-10 05:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-10 05:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 05:19:41 +0000"
     },
     "done": true
   },
