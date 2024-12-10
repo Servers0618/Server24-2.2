@@ -1708,6 +1708,7 @@
       "minecraft:taiga": "2024-12-08 04:04:04 +0000",
       "minecraft:frozen_river": "2024-12-08 04:07:04 +0000",
       "minecraft:cherry_grove": "2024-12-07 05:14:12 +0000",
+      "minecraft:sunflower_plains": "2024-12-10 17:56:39 +0000",
       "minecraft:birch_forest": "2024-12-10 16:09:17 +0000",
       "minecraft:savanna_plateau": "2024-12-08 07:32:52 +0000",
       "minecraft:beach": "2024-12-08 07:34:26 +0000",
@@ -5700,9 +5701,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-10 17:59:28 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2024-12-10 17:51:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-10 17:59:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2024-12-10 17:59:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2024-12-10 17:14:05 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2024-12-10 17:51:52 +0000"
     },
     "done": true
   },
@@ -5718,15 +5749,45 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2024-12-10 17:51:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-10 18:00:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2024-12-10 17:59:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2024-12-10 17:14:05 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-10 18:00:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2024-12-10 17:14:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2024-12-10 17:59:28 +0000"
     },
     "done": true
   },
