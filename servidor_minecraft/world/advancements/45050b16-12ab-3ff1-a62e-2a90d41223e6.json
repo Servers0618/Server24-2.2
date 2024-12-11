@@ -1713,6 +1713,7 @@
       "minecraft:sunflower_plains": "2024-12-10 17:56:39 +0000",
       "minecraft:birch_forest": "2024-12-10 16:09:17 +0000",
       "minecraft:bamboo_jungle": "2024-12-11 02:52:03 +0000",
+      "minecraft:badlands": "2024-12-11 03:39:42 +0000",
       "minecraft:savanna_plateau": "2024-12-08 07:32:52 +0000",
       "minecraft:beach": "2024-12-08 07:34:26 +0000",
       "minecraft:mangrove_swamp": "2024-12-11 02:48:23 +0000",
@@ -6132,6 +6133,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-11 03:36:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
       "has_upgrade_base": "2024-12-11 02:32:38 +0000"
@@ -6267,6 +6274,12 @@
   "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
       "has_item": "2024-12-11 03:24:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-11 03:42:18 +0000"
     },
     "done": true
   },

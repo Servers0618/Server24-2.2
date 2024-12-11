@@ -5146,6 +5146,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-11 03:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-12-11 03:14:06 +0000"
@@ -5158,6 +5164,12 @@
       "minecraft:cow": "2024-12-11 03:14:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-11 03:53:59 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
