@@ -254,3 +254,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 22:27:17.865] [Worker-Main-17/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (15931, 33, 1971)
 [11Dec2024 22:27:23.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZOMTASMA08 lost connection: Disconnected
 [11Dec2024 22:27:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 left the game
+[11Dec2024 22:28:16.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZOMTASMA08[/100.81.12.92:63481] logged in with entity id 1868 at (15859.466196899342, 79.0, 1880.5802077555754)
+[11Dec2024 22:28:16.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 joined the game
+[11Dec2024 22:28:20.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3807ms or 76 ticks behind
+[11Dec2024 22:28:39.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4612ms or 92 ticks behind
+[11Dec2024 22:28:40.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDeathWorm['Death Worm'/2471, l='ServerLevel[world]', x=15774.98, y=81.54, z=1725.21]
+[11Dec2024 22:28:59.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4763ms or 95 ticks behind
+[11Dec2024 22:29:07.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDeathWorm['Death Worm'/2602, l='ServerLevel[world]', x=16056.50, y=69.00, z=1928.50]
+[11Dec2024 22:29:17.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[11Dec2024 22:29:24.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 22:29:35.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[11Dec2024 22:29:53.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[11Dec2024 22:30:12.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[11Dec2024 22:30:29.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[11Dec2024 22:30:40.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> Q SE DICE
+[11Dec2024 22:30:49.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4709ms or 94 ticks behind
+[11Dec2024 22:33:15.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> que mas
+[11Dec2024 22:33:50.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> TODO BIEN ANDO EN DISC
+[11Dec2024 22:33:56.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pochito228> R
+[11Dec2024 22:34:00.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[11Dec2024 22:37:49.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind

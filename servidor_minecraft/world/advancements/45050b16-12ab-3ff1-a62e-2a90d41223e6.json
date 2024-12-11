@@ -6711,5 +6711,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-11 22:30:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
