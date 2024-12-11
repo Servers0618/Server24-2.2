@@ -270,3 +270,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 06:33:42.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
 [11Dec2024 06:34:10.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12888ms or 257 ticks behind
 [11Dec2024 06:40:20.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[11Dec2024 06:43:10.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3219ms or 64 ticks behind
+[11Dec2024 06:45:58.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 lost connection: Disconnected
+[11Dec2024 06:45:58.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 left the game
+[11Dec2024 06:50:07.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Michak1 lost connection: Disconnected
+[11Dec2024 06:50:07.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Michak1 left the game
