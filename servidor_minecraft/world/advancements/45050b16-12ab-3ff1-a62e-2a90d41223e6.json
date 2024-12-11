@@ -1738,6 +1738,7 @@
       "minecraft:windswept_savanna": "2024-12-11 02:48:27 +0000",
       "minecraft:warm_ocean": "2024-12-11 03:00:20 +0000",
       "minecraft:flower_forest": "2024-12-08 07:41:47 +0000",
+      "minecraft:deep_dark": "2024-12-11 23:44:26 +0000",
       "minecraft:meadow": "2024-12-07 06:04:08 +0000",
       "minecraft:savanna": "2024-12-08 07:32:45 +0000",
       "minecraft:plains": "2024-12-07 05:07:21 +0000"
@@ -6715,6 +6716,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-11 22:30:33 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-11 23:44:26 +0000"
     },
     "done": true
   },
