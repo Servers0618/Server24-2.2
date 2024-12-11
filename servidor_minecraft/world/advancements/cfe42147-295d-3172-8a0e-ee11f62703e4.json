@@ -5128,9 +5128,21 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2024-12-11 03:18:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_helmet": {
     "criteria": {
       "has_item": "2024-12-11 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_helmet": "2024-12-11 03:21:01 +0000"
     },
     "done": true
   },
@@ -5156,6 +5168,12 @@
   "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
       "has_item": "2024-12-11 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2024-12-11 03:25:41 +0000"
     },
     "done": true
   },
