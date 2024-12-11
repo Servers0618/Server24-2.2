@@ -5139,6 +5139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2024-12-11 06:06:31 +0000"
@@ -5148,6 +5154,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2024-12-11 06:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
     },
     "done": true
   },
@@ -5172,6 +5184,12 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2024-12-11 06:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-11 06:13:06 +0000"
     },
     "done": true
   },
@@ -5208,6 +5226,12 @@
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-11 05:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
     },
     "done": true
   },
@@ -5283,9 +5307,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_grottol": {
     "criteria": {
       "grottol": "2024-12-11 03:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
     },
     "done": true
   },
@@ -5295,9 +5331,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-11 04:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
     },
     "done": true
   },
@@ -5407,6 +5461,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2024-12-11 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-11 06:14:18 +0000"
     },
     "done": true
   },
