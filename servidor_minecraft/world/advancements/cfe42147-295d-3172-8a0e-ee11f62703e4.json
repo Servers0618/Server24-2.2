@@ -1448,6 +1448,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-07 05:20:59 +0000",
+      "minecraft:badlands": "2024-12-11 06:05:56 +0000",
       "minecraft:savanna_plateau": "2024-12-08 06:47:55 +0000",
       "minecraft:beach": "2024-12-08 04:12:45 +0000",
       "minecraft:stony_peaks": "2024-12-08 06:38:41 +0000",
@@ -5126,6 +5127,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-12-11 06:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-11 06:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 05:57:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_boots": {
     "criteria": {
       "has_item": "2024-12-11 03:18:02 +0000"
@@ -5138,9 +5169,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-12-11 06:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_helmet": {
     "criteria": {
       "has_item": "2024-12-11 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
     },
     "done": true
   },
@@ -5150,21 +5205,69 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-11 05:56:51 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-11 05:31:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-11 05:57:15 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_armor": {
     "criteria": {
       "gobber2_helmet": "2024-12-11 03:21:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-11 06:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 05:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 05:57:17 +0000"
     },
     "done": true
   },
@@ -5228,9 +5331,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-11 05:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
     },
     "done": true
   },
@@ -5247,9 +5362,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
       "has_item": "2024-12-11 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
     },
     "done": true
   },
@@ -5259,15 +5386,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-11 05:57:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-11 04:34:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2024-12-11 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-11 06:06:28 +0000"
     },
     "done": true
   },
