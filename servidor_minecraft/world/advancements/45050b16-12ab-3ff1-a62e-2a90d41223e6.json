@@ -1714,6 +1714,7 @@
       "minecraft:sunflower_plains": "2024-12-10 17:56:39 +0000",
       "minecraft:birch_forest": "2024-12-10 16:09:17 +0000",
       "minecraft:bamboo_jungle": "2024-12-11 02:52:03 +0000",
+      "minecraft:wooded_badlands": "2024-12-11 23:04:15 +0000",
       "minecraft:badlands": "2024-12-11 03:39:42 +0000",
       "minecraft:savanna_plateau": "2024-12-08 07:32:52 +0000",
       "minecraft:beach": "2024-12-08 07:34:26 +0000",
@@ -6716,18 +6717,6 @@
       "has_stone_slab": "2024-12-11 22:30:33 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-11 23:03:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-11 23:03:06 +0000"
-    },
-    "done": false
   },
   "skilltree:recipes/misc/copper_ingot": {
     "criteria": {
