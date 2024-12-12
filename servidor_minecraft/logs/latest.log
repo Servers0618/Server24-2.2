@@ -243,3 +243,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 22:11:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [An Ear-Shattering Roar]
 [12Dec2024 22:12:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [The Song of the Dragons]
 [12Dec2024 22:12:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [Best Friends Forever]
+[12Dec2024 22:33:01.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZOMTASMA08[/100.81.12.92:57249] logged in with entity id 5797 at (12344.417014285294, 130.02603406125448, 1106.5310744039255)
+[12Dec2024 22:33:01.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZOMTASMA08 joined the game
+[12Dec2024 22:33:04.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[12Dec2024 22:33:24.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4584ms or 91 ticks behind
+[12Dec2024 22:33:41.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZOMTASMA08> como seria viciao
+[12Dec2024 22:34:17.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/6588, l='ServerLevel[world]', x=12522.65, y=76.08, z=780.52]
+[12Dec2024 22:39:43.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5959, l='ServerLevel[world]', x=12174.50, y=64.00, z=1253.50] died, message: 'Villager was slain by ZOMTASMA08'
+[12Dec2024 22:42:36.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 lost connection: Disconnected
+[12Dec2024 22:42:36.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 left the game
