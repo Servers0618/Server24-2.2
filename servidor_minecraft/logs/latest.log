@@ -1478,3 +1478,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 19:50:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 left the game
 [12Dec2024 19:53:38.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pochito228[/100.65.198.20:54607] logged in with entity id 58537 at (12099.518321551282, 61.0, 1719.3570414934302)
 [12Dec2024 19:53:38.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 joined the game
+[12Dec2024 20:15:43.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 lost connection: Disconnected
+[12Dec2024 20:15:43.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 left the game
+[12Dec2024 20:16:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 20:16:10.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 20:16:10.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 20:16:10.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Dec2024 20:16:10.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[12Dec2024 20:16:10.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[12Dec2024 20:16:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Dec2024 20:16:10.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Dec2024 20:16:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Dec2024 20:16:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[12Dec2024 20:16:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[12Dec2024 20:16:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Dec2024 20:16:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Dec2024 20:16:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
