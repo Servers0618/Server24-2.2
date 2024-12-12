@@ -6822,6 +6822,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-12 00:54:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_boots": {
     "criteria": {
       "has_item": "2024-12-11 22:55:43 +0000"

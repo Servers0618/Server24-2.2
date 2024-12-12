@@ -5620,105 +5620,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 00:05:02 +0000"
-    },
-    "done": false
-  },
-  "gobber2:gobber2_hammer": {
-    "criteria": {
-      "gobber2_hammer": "2024-12-11 23:58:30 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_bow": {
-    "criteria": {
-      "gobber2_bow": "2024-12-11 23:58:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
-    "criteria": {
-      "has_item": "2024-12-11 23:41:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-11 23:11:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-12-11 23:30:48 +0000"
     },
     "done": true
   },
@@ -5731,6 +5635,42 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-11 23:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-11 23:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-11 23:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-11 23:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-11 23:30:48 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/fisherman_necklace": {
+    "criteria": {
+      "has_tropical_fish": "2024-12-11 23:35:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-11 23:41:13 +0000"
     },
     "done": true
   },
@@ -5752,27 +5692,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "gobber2:gobber2_bow": {
     "criteria": {
-      "has_clay_ball": "2024-12-11 23:30:48 +0000"
+      "gobber2_bow": "2024-12-11 23:58:23 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/fisherman_necklace": {
+  "gobber2:gobber2_hammer": {
     "criteria": {
-      "has_tropical_fish": "2024-12-11 23:35:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2024-12-11 23:30:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-11 23:30:32 +0000"
+      "gobber2_hammer": "2024-12-11 23:58:30 +0000"
     },
     "done": true
   },
