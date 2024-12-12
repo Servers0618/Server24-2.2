@@ -6878,5 +6878,29 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-12 22:12:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-12 22:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-12 22:12:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-12 22:11:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

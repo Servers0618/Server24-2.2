@@ -4209,3 +4209,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 22:11:21.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [Dragon Commander]
 [12Dec2024 22:11:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [An Ear-Shattering Roar]
 [12Dec2024 22:12:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [The Song of the Dragons]
+[12Dec2024 22:12:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [Best Friends Forever]
+[12Dec2024 22:14:55.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 22:14:55.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 22:19:55.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 22:19:55.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
