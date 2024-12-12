@@ -5620,6 +5620,18 @@
     },
     "done": true
   },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2024-12-11 23:58:30 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_bow": {
+    "criteria": {
+      "gobber2_bow": "2024-12-11 23:58:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
     "criteria": {
       "has_item": "2024-12-11 23:41:13 +0000"
