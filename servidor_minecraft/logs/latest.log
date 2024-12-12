@@ -1476,3 +1476,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 19:42:41.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 moved too quickly! -9.709781691026365,-7.171368328466647,-5.662001471212875
 [12Dec2024 19:50:39.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 lost connection: Disconnected
 [12Dec2024 19:50:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 left the game
+[12Dec2024 19:53:38.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pochito228[/100.65.198.20:54607] logged in with entity id 58537 at (12099.518321551282, 61.0, 1719.3570414934302)
+[12Dec2024 19:53:38.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 joined the game
