@@ -1705,6 +1705,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-12 19:27:20 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-11 02:36:32 +0000",
       "minecraft:taiga": "2024-12-08 04:04:04 +0000",
       "minecraft:deep_ocean": "2024-12-11 03:07:05 +0000",
@@ -1718,6 +1719,7 @@
       "minecraft:badlands": "2024-12-11 03:39:42 +0000",
       "minecraft:savanna_plateau": "2024-12-08 07:32:52 +0000",
       "minecraft:beach": "2024-12-08 07:34:26 +0000",
+      "minecraft:stony_peaks": "2024-12-12 19:11:20 +0000",
       "minecraft:mangrove_swamp": "2024-12-11 02:48:23 +0000",
       "minecraft:sparse_jungle": "2024-12-08 07:33:37 +0000",
       "minecraft:river": "2024-12-07 05:39:03 +0000",
@@ -6840,77 +6842,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
+      "has_item": "2024-12-12 19:30:55 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 19:08:04 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
