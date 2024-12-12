@@ -5,3 +5,13 @@
 [12Dec2024 00:05:53.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [Double Or Nothing!]
 [12Dec2024 00:05:53.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has made the advancement [You Monster...]
 [12Dec2024 00:07:45.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has completed the challenge [Phantom Thief]
+[12Dec2024 00:14:32.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[12Dec2024 00:16:06.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[12Dec2024 00:19:02.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[12Dec2024 00:19:21.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[12Dec2024 00:20:51.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[12Dec2024 00:21:19.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 moved too quickly! -7.393433811776049,-4.768476202412987,5.197263318175828
+[12Dec2024 00:21:19.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13710ms or 274 ticks behind
+[12Dec2024 00:21:36.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 moved too quickly! -3.5206563981455474,-1.0752008901189356,9.79376319094672
+[12Dec2024 00:21:42.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 moved too quickly! -1.4843579310900168,1.4952008770059138,9.971501157784587
+[12Dec2024 00:21:49.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14607ms or 292 ticks behind
