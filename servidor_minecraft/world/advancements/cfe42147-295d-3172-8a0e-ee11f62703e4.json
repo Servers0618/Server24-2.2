@@ -5704,5 +5704,11 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-12 01:15:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
