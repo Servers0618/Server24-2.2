@@ -11700,3 +11700,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 00:21:36.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 moved too quickly! -3.5206563981455474,-1.0752008901189356,9.79376319094672
 [12Dec2024 00:21:42.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 moved too quickly! -1.4843579310900168,1.4952008770059138,9.971501157784587
 [12Dec2024 00:21:49.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14607ms or 292 ticks behind
+[12Dec2024 00:26:43.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 00:26:43.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 00:31:43.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 00:31:43.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
