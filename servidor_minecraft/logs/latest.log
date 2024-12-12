@@ -15,3 +15,6 @@
 [12Dec2024 00:21:36.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 moved too quickly! -3.5206563981455474,-1.0752008901189356,9.79376319094672
 [12Dec2024 00:21:42.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pochito228 moved too quickly! -1.4843579310900168,1.4952008770059138,9.971501157784587
 [12Dec2024 00:21:49.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14607ms or 292 ticks behind
+[12Dec2024 00:36:20.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pochito228 has completed the challenge [It Spreads]
+[12Dec2024 00:36:22.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[12Dec2024 00:42:53.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind

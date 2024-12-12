@@ -6792,6 +6792,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-12 00:36:20 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2024-12-12 00:07:45 +0000"
