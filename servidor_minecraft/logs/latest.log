@@ -226,3 +226,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:01:49.085] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [13Dec2024 23:01:49.086] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [13Dec2024 23:01:51.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[13Dec2024 23:19:26.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Michak1[/100.88.119.109:59765] logged in with entity id 241 at (12089.611274847555, 73.0, 1588.7448853800702)
+[13Dec2024 23:19:26.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Michak1 joined the game
+[13Dec2024 23:19:28.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Dec2024 23:21:07.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Michak1 lost connection: Disconnected
+[13Dec2024 23:21:07.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Michak1 left the game
+[13Dec2024 23:21:18.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Michak1[/100.88.119.109:59791] logged in with entity id 776 at (12092.569450037969, 73.0, 1588.0400236742562)
+[13Dec2024 23:21:18.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Michak1 joined the game
+[13Dec2024 23:21:23.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13Dec2024 23:25:18.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
+[13Dec2024 23:25:43.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9638ms or 192 ticks behind
+[13Dec2024 23:26:06.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8646ms or 172 ticks behind
+[13Dec2024 23:27:18.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[13Dec2024 23:27:42.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13Dec2024 23:27:42.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Michak1 moved wrongly!
