@@ -1739,7 +1739,9 @@
       "minecraft:snowy_beach": "2024-12-08 04:13:50 +0000",
       "minecraft:windswept_savanna": "2024-12-11 02:48:27 +0000",
       "minecraft:warm_ocean": "2024-12-11 03:00:20 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-14 00:56:46 +0000",
       "minecraft:flower_forest": "2024-12-08 07:41:47 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-14 00:56:01 +0000",
       "minecraft:deep_dark": "2024-12-11 23:44:26 +0000",
       "minecraft:meadow": "2024-12-07 06:04:08 +0000",
       "minecraft:savanna": "2024-12-08 07:32:45 +0000",
@@ -6914,9 +6916,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-14 01:02:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-14 00:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-14 01:02:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2024-12-14 01:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-14 01:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-14 01:02:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-12-14 01:02:10 +0000"
     },
     "done": true
   },
