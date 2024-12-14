@@ -6917,6 +6917,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-14 01:29:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2024-12-14 01:14:28 +0000"
