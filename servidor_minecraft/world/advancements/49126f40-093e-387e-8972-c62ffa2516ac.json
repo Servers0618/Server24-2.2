@@ -1720,6 +1720,7 @@
       "minecraft:snowy_plains": "2024-12-08 07:15:20 +0000",
       "minecraft:stony_shore": "2024-12-08 08:38:48 +0000",
       "minecraft:dripstone_caves": "2024-12-08 00:59:10 +0000",
+      "minecraft:snowy_taiga": "2024-12-14 01:13:20 +0000",
       "minecraft:forest": "2024-12-08 03:58:36 +0000",
       "minecraft:lush_caves": "2024-12-09 21:45:28 +0000",
       "minecraft:ice_spikes": "2024-12-10 18:02:32 +0000",
@@ -6360,6 +6361,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-14 01:17:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_sword": {
     "criteria": {
       "has_item": "2024-12-14 00:28:19 +0000"
@@ -6369,6 +6376,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-14 00:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-14 01:18:51 +0000"
     },
     "done": true
   },
@@ -6513,6 +6526,12 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2024-12-13 23:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-14 01:18:51 +0000"
     },
     "done": true
   },
