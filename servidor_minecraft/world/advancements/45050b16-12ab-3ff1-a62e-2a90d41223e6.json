@@ -1720,6 +1720,7 @@
       "minecraft:savanna_plateau": "2024-12-08 07:32:52 +0000",
       "minecraft:beach": "2024-12-08 07:34:26 +0000",
       "minecraft:stony_peaks": "2024-12-12 19:11:20 +0000",
+      "minecraft:dark_forest": "2024-12-14 01:30:56 +0000",
       "minecraft:mangrove_swamp": "2024-12-11 02:48:23 +0000",
       "minecraft:sparse_jungle": "2024-12-08 07:33:37 +0000",
       "minecraft:river": "2024-12-07 05:39:03 +0000",
@@ -1731,6 +1732,8 @@
       "minecraft:swamp": "2024-12-11 02:42:52 +0000",
       "minecraft:cold_ocean": "2024-12-10 16:37:48 +0000",
       "minecraft:forest": "2024-12-07 06:04:45 +0000",
+      "minecraft:lush_caves": "2024-12-14 01:33:50 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-14 01:29:28 +0000",
       "minecraft:ice_spikes": "2024-12-14 01:15:08 +0000",
       "minecraft:frozen_ocean": "2024-12-08 04:17:04 +0000",
       "minecraft:desert": "2024-12-11 02:57:10 +0000",
@@ -6917,12 +6920,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-14 01:29:11 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2024-12-14 01:14:28 +0000"
@@ -6959,6 +6956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-14 01:34:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2024-12-14 01:02:33 +0000"
@@ -6977,6 +6980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-14 01:34:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2024-12-14 01:02:33 +0000"
@@ -6986,6 +6995,12 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2024-12-14 01:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-14 01:34:16 +0000"
     },
     "done": true
   },
