@@ -1739,6 +1739,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-12-08 20:51:36 +0000",
       "minecraft:flower_forest": "2024-12-08 08:32:28 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-08 20:18:43 +0000",
+      "minecraft:deep_dark": "2024-12-14 01:49:46 +0000",
       "minecraft:meadow": "2024-12-08 07:07:08 +0000",
       "minecraft:savanna": "2024-12-08 08:32:47 +0000",
       "minecraft:plains": "2024-12-08 00:50:15 +0000"
@@ -6355,6 +6356,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-14 01:58:55 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-14 01:49:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2024-12-14 00:28:19 +0000"
@@ -6457,9 +6470,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-14 01:53:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_helmet": {
     "criteria": {
       "has_item": "2024-12-14 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol_fortune": {
+    "criteria": {
+      "steal_crystal": "2024-12-14 01:53:14 +0000"
     },
     "done": true
   },
@@ -6505,6 +6530,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-14 01:49:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_leggings": {
     "criteria": {
       "has_item": "2024-12-14 00:28:19 +0000"
@@ -6540,6 +6571,12 @@
       "has_sherd": "2024-12-14 00:51:25 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-14 01:51:27 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
