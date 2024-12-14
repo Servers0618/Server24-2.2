@@ -6878,81 +6878,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 22:42:02 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2024-12-12 22:12:14 +0000"
+      "bestiary": "2024-12-12 22:11:21 +0000"
     },
     "done": true
   },
@@ -6962,9 +6890,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "has_oxeye_daisy": "2024-12-12 22:24:15 +0000"
+      "bestiary": "2024-12-12 22:12:14 +0000"
     },
     "done": true
   },
@@ -6974,15 +6902,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-12 22:24:15 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "bestiary": "2024-12-12 22:11:21 +0000"
+      "has_oxeye_daisy": "2024-12-12 22:24:15 +0000"
     },
     "done": true
   },
