@@ -6914,5 +6914,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-14 00:47:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
